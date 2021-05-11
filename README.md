@@ -6,6 +6,10 @@ https://cdnhd.iblups.com/hls/ptv2.m3u8?PlaylistM3UCL
 https://sony-novelas-1.roku.wurl.com/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="141069" tvg-name="Educa TV" tvg-logo="https://educacion.gob.ec/wp-content/uploads/2012/10/Educa_sinfoto.jpg" group-title="ECUADOR", Educa TV
 https://cloud37.ecuatel.com/educa/educa/playlist.m3u8?PlaylistM3UCL&PlaylistM3UCL
+#EXTINF:-1 tvg-id="138550" tvg-name="Mundo + " tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/03/Canal-Mundo-Colombia-en-vivo-Online.png" group-title="00 - Argentina", Mundo + 
+http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="138229" tvg-name="COSMO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Cosmo_TV_logo.svg/1200px-Cosmo_TV_logo.svg.pngg" group-title="00 - Argentina", COSMO TV
+http://91.126.141.201:1935/live/cosmoHD/.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="113859" tvg-name="RT" tvg-logo="https://lh3.googleusercontent.com/-lFxeunh5PmY/X5F4yyCtQ1I/AAAAAAAA6os/89eVaEZroogQRsDPzDjJ6lo8TUJYJsmoACK8BGAsYHg/s0/2020-10-22.png", RT
 https://rt-esp.secure.footprint.net/1102.m3u8?PlaylistM3UCL

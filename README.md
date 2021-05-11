@@ -1,5 +1,12 @@
-#EXTM3U
- 
+#EXTINF:-1 tvg-id="141072" tvg-name="TUS MASCOTAS" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/10331409_ico.png?ts=1620578508"" group-title="00 - Argentina", TUS MASCOTAS
+https://ia803400.us.archive.org/22/items/la-vida-secreta-de-las-mascotas-2/la%20vida%20secreta%20de%20las%20mascotas%202.MP4?PlaylistM3UCL
+#EXTINF:-1 tvg-id="141075" tvg-name="panamericana" tvg-logo="" group-title="Sin Categoria", panamericana
+https://cdnhd.iblups.com/hls/ptv2.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="141076" tvg-name="sony novelas" tvg-logo="" group-title="Sin Categoria", sony novelas
+https://sony-novelas-1.roku.wurl.com/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="141069" tvg-name="Educa TV" tvg-logo="https://educacion.gob.ec/wp-content/uploads/2012/10/Educa_sinfoto.jpg" group-title="ECUADOR", Educa TV
+https://cloud37.ecuatel.com/educa/educa/playlist.m3u8?PlaylistM3UCL&PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="113859" tvg-name="RT" tvg-logo="https://lh3.googleusercontent.com/-lFxeunh5PmY/X5F4yyCtQ1I/AAAAAAAA6os/89eVaEZroogQRsDPzDjJ6lo8TUJYJsmoACK8BGAsYHg/s0/2020-10-22.png", RT
 https://rt-esp.secure.footprint.net/1102.m3u8?PlaylistM3UCL
 

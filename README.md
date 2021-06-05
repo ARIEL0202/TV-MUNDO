@@ -91,6 +91,14 @@ http://ipflix.click:8080/h602/rflx42k17c/8773
 #EXTINF:-1 tvg-id="canalpanda.es" tvg-name="Canal Panda ES" tvg-logo="" group-title="Spain",Canal Panda ES
 http://ipflix.click:8080/h602/rflx42k17c/53156
 
+#EXTINF:-1,Disney Channel FHD ES http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/16287 
+#EXTINF:-1,Disney Channel HD ES http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/7225 
+#EXTINF:-1,Disney Junior ES http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/7224 
+#EXTINF:-1,Nickelodeon ES http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/7185 
+#EXTINF:-1,Nick Jr. ES http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/13526 
+#EXTINF:-1,Boing ES http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/8773 
+#EXTINF:-1,Canal Panda ES http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/53156 
+
 #EXTINF:-1 tvg-id="" tvg-name="Azteca Honduras HN" tvg-logo="" group-title="Latin America",Azteca Honduras HN
 http://ipflix.click:8080/h602/rflx42k17c/626967
 #EXTINF:-1 tvg-id="" tvg-name="Canal 5 HN" tvg-logo="" group-title="Latin America",Canal 5 HN

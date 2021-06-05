@@ -131,6 +131,60 @@ http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
 #EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2018_09/small.Logo_TierramiaTV.png.52a0b19eb1a7425c43898d0766558d1a.png" group-title="ARGENTINA",Tierra Mía 
 http://live-edge01.telecentro.net.ar/live/smil:trm.smil/chunklist_w318427641_b1864000_sleng.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="Azteca Honduras LAM" tvg-logo="http://pici.life/Latin%20America%20(LAM)/Azteca_honduras.png" group-title="Latin America",Azteca Honduras LAM
+http://ipflix.click:8080/h602/rflx42k17c/8744
+
+#EXTINF:-1 tvg-id="" tvg-name="Azteca Honduras HN" tvg-logo="" group-title="Latin America",Azteca Honduras HN
+http://ipflix.click:8080/h602/rflx42k17c/626967
+#EXTINF:-1 tvg-id="" tvg-name="Canal 5 HN" tvg-logo="" group-title="Latin America",Canal 5 HN
+http://ipflix.click:8080/h602/rflx42k17c/626963
+#EXTINF:-1 tvg-id="" tvg-name="Canal 6 HN" tvg-logo="" group-title="Latin America",Canal 6 HN
+http://ipflix.click:8080/h602/rflx42k17c/626962
+#EXTINF:-1 tvg-id="" tvg-name="Canal 11 HN" tvg-logo="" group-title="Latin America",Canal 11 HN
+http://ipflix.click:8080/h602/rflx42k17c/626965
+#EXTINF:-1 tvg-id="" tvg-name="Mega TV HD HN" tvg-logo="" group-title="Latin America",Mega TV HD HN
+http://ipflix.click:8080/h602/rflx42k17c/626957
+#EXTINF:-1 tvg-id="" tvg-name="Telecadena HN" tvg-logo="" group-title="Latin America",Telecadena HN
+http://ipflix.click:8080/h602/rflx42k17c/626953
+#EXTINF:-1 tvg-id="" tvg-name="Teleceiba HN" tvg-logo="" group-title="Latin America",Teleceiba HN
+http://ipflix.click:8080/h602/rflx42k17c/626952
+#EXTINF:-1 tvg-id="" tvg-name="Telesistema HD HN" tvg-logo="" group-title="Latin America",Telesistema HD HN
+http://ipflix.click:8080/h602/rflx42k17c/626950
+#EXTINF:-1 tvg-id="" tvg-name="Une TV HN" tvg-logo="" group-title="Latin America",Une TV HN
+http://ipflix.click:8080/h602/rflx42k17c/626947
+#EXTINF:-1 tvg-id="" tvg-name="TNP PE" tvg-logo="" group-title="Latin America",TNP PE
+http://ipflix.click:8080/h602/rflx42k17c/626970
+#EXTINF:-1 tvg-id="" tvg-name="TV Peru HD PE" tvg-logo="" group-title="Latin America",TV Peru HD PE
+http://ipflix.click:8080/h602/rflx42k17c/626969
+#EXTINF:-1 tvg-id="" tvg-name="Antares TV PE" tvg-logo="" group-title="Latin America",Antares TV PE
+http://ipflix.click:8080/h602/rflx42k17c/626981
+#EXTINF:-1 tvg-id="" tvg-name="ATV HD PE" tvg-logo="" group-title="Latin America",ATV HD PE
+http://ipflix.click:8080/h602/rflx42k17c/626980
+#EXTINF:-1 tvg-id="" tvg-name="Capital TV PE" tvg-logo="" group-title="Latin America",Capital TV PE
+http://ipflix.click:8080/h602/rflx42k17c/626979
+#EXTINF:-1 tvg-id="" tvg-name="Next TV PE" tvg-logo="" group-title="Latin America",Next TV PE
+http://ipflix.click:8080/h602/rflx42k17c/626975
+#EXTINF:-1 tvg-id="" tvg-name="Panamericana PE" tvg-logo="" group-title="Latin America",Panamericana PE
+http://ipflix.click:8080/h602/rflx42k17c/626974
+#EXTINF:-1 tvg-id="rcn.co" tvg-name="RCN CO" tvg-logo="http://pici.life/CO/RCN.png" group-title="Colombia",RCN CO
+http://ipflix.click:8080/h602/rflx42k17c/50891
+#EXTINF:-1 tvg-id="senal.co" tvg-name="Senal Colombia HD CO" tvg-logo="http://pici.life/Logo/senal_co.png" group-title="Colombia",Senal Colombia HD CO
+http://ipflix.click:8080/h602/rflx42k17c/629054
+#EXTINF:-1 tvg-id="CableNoticias.co" tvg-name="Cablenoticias HD CO" tvg-logo="http://pici.life/CO/Cablenoticias.png" group-title="Colombia",Cablenoticias HD CO
+http://ipflix.click:8080/h602/rflx42k17c/21339
+#EXTINF:-1 tvg-id="teleantioquia.co" tvg-name="Teleantioquia CO" tvg-logo="http://pici.life/CO/Teleantioquia.png" group-title="Colombia",Teleantioquia CO
+http://ipflix.click:8080/h602/rflx42k17c/628999
+#EXTINF:-1 tvg-id="" tvg-name="Melody TV CO" tvg-logo="http://pici.life/CO/Melody.png" group-title="Colombia",Melody TV CO
+http://ipflix.click:8080/h602/rflx42k17c/15652
+#EXTINF:-1 tvg-id="" tvg-name="TeleRitmo CO" tvg-logo="http://pici.life/CO/teleritmo.png" group-title="Colombia",TeleRitmo CO
+http://ipflix.click:8080/h602/rflx42k17c/15638
+#EXTINF:-1 tvg-id="caracol.co" tvg-name="Caracol HD CO" tvg-logo="http://pici.life/picon/caracoltvlam.png" group-title="Colombia",Caracol HD CO
+http://ipflix.click:8080/h602/rflx42k17c/15668
+#EXTINF:-1 tvg-id="canalcapital.co" tvg-name="Canal Capital CO" tvg-logo="http://pici.life/CO/Canal_Capital.png" group-title="Colombia",Canal Capital CO
+http://ipflix.click:8080/h602/rflx42k17c/15673
+#EXTINF:-1 tvg-id="" tvg-name="Canal Wow TV HD CO" tvg-logo="http://pici.life/CO/Canal_Wow.png" group-title="Colombia",Canal Wow TV HD CO
+http://ipflix.click:8080/h602/rflx42k17c/15670
+
 
 
 

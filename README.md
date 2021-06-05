@@ -78,6 +78,19 @@ http://ott-cdn.ucom.am/s35/index.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Azteca Honduras LAM" tvg-logo="http://pici.life/Latin%20America%20(LAM)/Azteca_honduras.png" group-title="Latin America",Azteca Honduras LAM
 http://ipflix.click:8080/h602/rflx42k17c/8744
 
+#EXTINF:-1 tvg-id="disneychannel.es" tvg-name="Disney Channel HD ES" tvg-logo="http://pici.life/ES/disneychannel.png" group-title="Spain",Disney Channel HD ES
+http://ipflix.click:8080/h602/rflx42k17c/7225
+#EXTINF:-1 tvg-id="disneyjunior.es" tvg-name="Disney Junior ES" tvg-logo="http://pici.life/es/DisneyJunior.es.png" group-title="Spain",Disney Junior ES
+http://ipflix.click:8080/h602/rflx42k17c/7224
+#EXTINF:-1 tvg-id="nickelodeon.es" tvg-name="Nickelodeon ES" tvg-logo="http://pici.life/es/Nickelodeon.es.png" group-title="Spain",Nickelodeon ES
+http://ipflix.click:8080/h602/rflx42k17c/7185
+#EXTINF:-1 tvg-id="nickjr.es" tvg-name="Nick Jr. ES" tvg-logo="http://pici.life/ES/nickjr_2.png" group-title="Spain",Nick Jr. ES
+http://ipflix.click:8080/h602/rflx42k17c/13526
+#EXTINF:-1 tvg-id="boing.es" tvg-name="Boing ES" tvg-logo="http://pici.life/ES/boing.png" group-title="Spain",Boing ES
+http://ipflix.click:8080/h602/rflx42k17c/8773
+#EXTINF:-1 tvg-id="canalpanda.es" tvg-name="Canal Panda ES" tvg-logo="" group-title="Spain",Canal Panda ES
+http://ipflix.click:8080/h602/rflx42k17c/53156
+
 #EXTINF:-1 tvg-id="" tvg-name="Azteca Honduras HN" tvg-logo="" group-title="Latin America",Azteca Honduras HN
 http://ipflix.click:8080/h602/rflx42k17c/626967
 #EXTINF:-1 tvg-id="" tvg-name="Canal 5 HN" tvg-logo="" group-title="Latin America",Canal 5 HN
@@ -128,6 +141,23 @@ http://ipflix.click:8080/h602/rflx42k17c/15668
 http://ipflix.click:8080/h602/rflx42k17c/15673
 #EXTINF:-1 tvg-id="" tvg-name="Canal Wow TV HD CO" tvg-logo="http://pici.life/CO/Canal_Wow.png" group-title="Colombia",Canal Wow TV HD CO
 http://ipflix.click:8080/h602/rflx42k17c/15670
+
+#EXTINF:-15 tvg-logo="https://i.postimg.cc/y8NmrWvJ/anduti-tv.png" group-title="NACIONALES", ÑANDUTÍ TV
+https://tvdatta.com:3839/live/nandutitvlive.m3u8
+
+#EXTINF:-18 tvg-logo="https://cdn.rcc.com.py/2017/12/logo-retina-544x180.png" group-title="NACIONALES", RCC
+https://59ce1298bfb98.streamlock.net/rcctv02/rcctv02/playlist.m3u8
+
+#EXTINF:-19 tvg-logo="https://radiosuceso.com/wp-content/uploads/2020/06/logo-listo-1-300x300.png" group-title="NACIONALES", SUCESO TV
+https://59ce1298bfb98.streamlock.net/sucesotv/sucesotv/playlist.m3u8
+
+#EXTINF:-21 tvg-logo="https://somosdeleste.com.py/wp-content/uploads/2019/09/somos@1xx.png" group-title="NACIONALES", SOMOS DEL ESTE TV
+https://59ce1298bfb98.streamlock.net/somosdeleste/somosdeleste/playlist.m3u8
+
+#EXTINF:-29 tvg-logo="https://1.bp.blogspot.com/-Jt9iLTl60OI/YFerCGX_48I/AAAAAAAAAE0/iMHDPAdTFF4uL1-uDqEq8kidNq40CCvwwCPcBGAYYCw/w1200-h630-p-k-no-nu/Emprende%2BTV%2Blogo.png" group-title="NACIONALES", EMPRENDE TV
+https://59ce1298bfb98.streamlock.net/emprendetv/emprendetv/playlist.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kJcwaOU.png" group-title="LATIN AMERICA",DW Español
 http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8

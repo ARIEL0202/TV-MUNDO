@@ -1,10 +1,5 @@
-#EXTINF:-1 tvg-id="141075" tvg-name="panamericana" tvg-logo="" group-title="Sin Categoria", panamericana
-https://cdnhd.iblups.com/hls/ptv2.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="141069" tvg-name="Educa TV" tvg-logo="https://educacion.gob.ec/wp-content/uploads/2012/10/Educa_sinfoto.jpg" group-title="ECUADOR", Educa TV
 https://cloud37.ecuatel.com/educa/educa/playlist.m3u8?PlaylistM3UCL&PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="138229" tvg-name="COSMO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Cosmo_TV_logo.svg/1200px-Cosmo_TV_logo.svg.pngg" group-title="00 - Argentina", COSMO TV
-http://91.126.141.201:1935/live/cosmoHD/.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="113859" tvg-name="RT" tvg-logo="https://lh3.googleusercontent.com/-lFxeunh5PmY/X5F4yyCtQ1I/AAAAAAAA6os/89eVaEZroogQRsDPzDjJ6lo8TUJYJsmoACK8BGAsYHg/s0/2020-10-22.png", RT
 https://rt-esp.secure.footprint.net/1102.m3u8?PlaylistM3UCL
@@ -15,14 +10,8 @@ https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8?PlaylistM3
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GEUzSd4.png" group-title="LATIN AMERICA",CGTN Español (Opt-1)
 http://livees.cgtn.com/1000e/prog_index.m3u8
 
-#EXTINF:-1 tvg-id="83646" tvg-name="Zee Mundo" tvg-logo="https://lh3.googleusercontent.com/-2pmSiXQcjhg/XbI0Q6gvXQI/AAAAAAAArqY/k_Qak4p83D8p-9bdpIILVGGjBXTTGffKQCK8BGAsYHg/s0/2019-10-24.png", Zee Mundo
-https://y5w8j4a9.ssl.hwcdn.net/mundohd/tracks-v1a1/index.m3u8?PlaylistM3UCL
-
 #EXTINF:-1 tvg-id="102481" tvg-name="Canal Capital" tvg-logo="https://lh3.googleusercontent.com/-Emi_jrNT71c/XqeMwoB2P-I/AAAAAAAAyS4/pUS5P-UYKsoW5xFT9RQjmCl7ONAL0oG4wCK8BGAsYHg/s0/2020-04-27.png", Canal Capital
 https://mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="COSTA RICA",Extrema TV
-http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://revmakers.com/wp-content/uploads/2016/08/reconline.png" group-title="CINE",Rec Online TV
 http://america.tucableip.com:8181/reconline/live/tracks-v1a1/mono.m3u8
@@ -51,23 +40,14 @@ https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_mi
 #EXTINF:-1 tvg-id="127319" tvg-name="Chic Magazine" tvg-logo="https://lh3.googleusercontent.com/-VQiXnvScrdo/X9kBIY6eCeI/AAAAAAAA8Pk/RqwvHCzyqT07Izb5NG9RLx7serX6u18JQCK8BGAsYHg/s0/2020-12-15.png", Chic Magazine
 https://paneltv.online:1936/8056/8056/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/otOhIe8.png" group-title="ECUADOR",UCSG (Opt-1)
-http://ecuastream.net:1935/UCSGHQ/UCSGHQ/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Hjc7XaY.png" group-title="COLOMBIA",Canal CNC Pasto
 http://66.240.236.25:1936/cncpasto/cncpasto/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cvoNi6F.png" group-title="PERU",Cultura 24 (Opt-1)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cvoNi6F.png" group-title="PERU",Cultura 24 
 http://vs8.live.opencaster.com/cultura24/smil:cultura24/chunklist_w1710773429_b564000_sles.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lv0mnMF.png" group-title="DOMINICAN REPUBLIC",Onda TV 10
 http://ss6.domint.net:2052/otv_str/tv10/chunklist_w1442080980.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YhMZXUp.png" group-title="DOMINICAN REPUBLIC",Romana TV 42
-http://tv.romanatv42.com/hls/live.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wYklHWy.png" group-title="DOMINICAN REPUBLIC",Telecanal 28
-http://cm.hostlagarto.com:8081/Telecanal-28/telecanal.myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://magneticproductions.files.wordpress.com/2010/11/mtv-dance.png" group-title="Musicales", MTV Dance
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
@@ -88,25 +68,18 @@ http://ipflix.click:8080/h602/rflx42k17c/7185
 http://ipflix.click:8080/h602/rflx42k17c/13526
 #EXTINF:-1 tvg-id="boing.es" tvg-name="Boing ES" tvg-logo="http://pici.life/ES/boing.png" group-title="Spain",Boing ES
 http://ipflix.click:8080/h602/rflx42k17c/8773
-#EXTINF:-1 tvg-id="canalpanda.es" tvg-name="Canal Panda ES" tvg-logo="" group-title="Spain",Canal Panda ES
-http://ipflix.click:8080/h602/rflx42k17c/53156
 
-#EXTINF:-1,Disney Channel FHD ES http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/16287 
 #EXTINF:-1,Disney Channel HD ES http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/7225 
 #EXTINF:-1,Disney Junior ES http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/7224 
 #EXTINF:-1,Nickelodeon ES http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/7185 
 #EXTINF:-1,Nick Jr. ES http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/13526 
 #EXTINF:-1,Boing ES http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/8773 
-#EXTINF:-1,Canal Panda ES http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/53156 
 
 #EXTINF:-1 tvg-id="" tvg-name="Azteca Honduras HN" tvg-logo="" group-title="Latin America",Azteca Honduras HN
 http://ipflix.click:8080/h602/rflx42k17c/626967
 #EXTINF:-1 tvg-id="" tvg-name="Canal 5 HN" tvg-logo="" group-title="Latin America",Canal 5 HN
 http://ipflix.click:8080/h602/rflx42k17c/626963
-#EXTINF:-1 tvg-id="" tvg-name="Canal 6 HN" tvg-logo="" group-title="Latin America",Canal 6 HN
-http://ipflix.click:8080/h602/rflx42k17c/626962
-#EXTINF:-1 tvg-id="" tvg-name="Canal 11 HN" tvg-logo="" group-title="Latin America",Canal 11 HN
-http://ipflix.click:8080/h602/rflx42k17c/626965
+
 #EXTINF:-1 tvg-id="" tvg-name="Mega TV HD HN" tvg-logo="" group-title="Latin America",Mega TV HD HN
 http://ipflix.click:8080/h602/rflx42k17c/626957
 #EXTINF:-1 tvg-id="" tvg-name="Telecadena HN" tvg-logo="" group-title="Latin America",Telecadena HN
@@ -133,8 +106,7 @@ http://ipflix.click:8080/h602/rflx42k17c/626975
 http://ipflix.click:8080/h602/rflx42k17c/626974
 #EXTINF:-1 tvg-id="rcn.co" tvg-name="RCN CO" tvg-logo="http://pici.life/CO/RCN.png" group-title="Colombia",RCN CO
 http://ipflix.click:8080/h602/rflx42k17c/50891
-#EXTINF:-1 tvg-id="senal.co" tvg-name="Senal Colombia HD CO" tvg-logo="http://pici.life/Logo/senal_co.png" group-title="Colombia",Senal Colombia HD CO
-http://ipflix.click:8080/h602/rflx42k17c/629054
+
 #EXTINF:-1 tvg-id="CableNoticias.co" tvg-name="Cablenoticias HD CO" tvg-logo="http://pici.life/CO/Cablenoticias.png" group-title="Colombia",Cablenoticias HD CO
 http://ipflix.click:8080/h602/rflx42k17c/21339
 #EXTINF:-1 tvg-id="teleantioquia.co" tvg-name="Teleantioquia CO" tvg-logo="http://pici.life/CO/Teleantioquia.png" group-title="Colombia",Teleantioquia CO
@@ -147,29 +119,12 @@ http://ipflix.click:8080/h602/rflx42k17c/15638
 http://ipflix.click:8080/h602/rflx42k17c/15668
 #EXTINF:-1 tvg-id="canalcapital.co" tvg-name="Canal Capital CO" tvg-logo="http://pici.life/CO/Canal_Capital.png" group-title="Colombia",Canal Capital CO
 http://ipflix.click:8080/h602/rflx42k17c/15673
-#EXTINF:-1 tvg-id="" tvg-name="Canal Wow TV HD CO" tvg-logo="http://pici.life/CO/Canal_Wow.png" group-title="Colombia",Canal Wow TV HD CO
-http://ipflix.click:8080/h602/rflx42k17c/15670
 
 #EXTINF:-15 tvg-logo="https://i.postimg.cc/y8NmrWvJ/anduti-tv.png" group-title="NACIONALES", ÑANDUTÍ TV
 https://tvdatta.com:3839/live/nandutitvlive.m3u8
 
-#EXTINF:-18 tvg-logo="https://cdn.rcc.com.py/2017/12/logo-retina-544x180.png" group-title="NACIONALES", RCC
-https://59ce1298bfb98.streamlock.net/rcctv02/rcctv02/playlist.m3u8
-
-#EXTINF:-19 tvg-logo="https://radiosuceso.com/wp-content/uploads/2020/06/logo-listo-1-300x300.png" group-title="NACIONALES", SUCESO TV
-https://59ce1298bfb98.streamlock.net/sucesotv/sucesotv/playlist.m3u8
-
-#EXTINF:-21 tvg-logo="https://somosdeleste.com.py/wp-content/uploads/2019/09/somos@1xx.png" group-title="NACIONALES", SOMOS DEL ESTE TV
-https://59ce1298bfb98.streamlock.net/somosdeleste/somosdeleste/playlist.m3u8
-
-#EXTINF:-29 tvg-logo="https://1.bp.blogspot.com/-Jt9iLTl60OI/YFerCGX_48I/AAAAAAAAAE0/iMHDPAdTFF4uL1-uDqEq8kidNq40CCvwwCPcBGAYYCw/w1200-h630-p-k-no-nu/Emprende%2BTV%2Blogo.png" group-title="NACIONALES", EMPRENDE TV
-https://59ce1298bfb98.streamlock.net/emprendetv/emprendetv/playlist.m3u8
-
 #EXTINF:-64 tvg-logo="https://i.postimg.cc/RFDW6NTH/5tvlinares.png" group-title="CHILE" ,5TV LINARES
 http://unlimited1-us.dps.live/tv5/tv5.smil/tv5/livestream1/chunks.m3u8
-
-#EXTINF:-102 tvg-logo="https://i.postimg.cc/0QYJ38GM/huascotv.jpg" group-title="CHILE", HUASCO TV
-https://paneltv.online:1936/8062/8062/playlist.m3u8
 
 #EXTINF:-105 tvg-logo="https://i.postimg.cc/fLz06G88/canal74.jpg" group-title="CHILE", CANAL 74 TV
 https://Stmv1.zcastbr.com/canal74hd/canal74hd/playlist.m3u8
@@ -177,32 +132,11 @@ https://Stmv1.zcastbr.com/canal74hd/canal74hd/playlist.m3u8
 #EXTINF:-106 tvg-logo="https://i.postimg.cc/G2vdxtFN/ALERCE.png" group-title="CHILE", SUR VISIÓN ALERCE TV
 http://170.79.102.254:1935/pruebacamara/Survision_tv_alerce/chunklist_w1568568829.m3u8
 
-#EXTINF:-106 tvg-logo="https://i.postimg.cc/4dWwMbQh/tvmaule.png" group-title="CHILE", TV MAULE LIVE
-https://cloud2.streaminglivehd.com:1936/8002/8002/chunklist_w1175212722.m3u8?WebM3UCL
-
-#EXTINF:-121 tvg-logo="https://i.postimg.cc/P5dgBKmS/telesurcr.png" group-title="COSTA RICA", TELESUR
-http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
-
 #EXTINF:-122 tvg-logo="https://i.postimg.cc/L5ByDK02/ticavision.png" group-title="COSTA RICA", TICAVISIÓN
 http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
 
-#EXTINF:-124 tvg-logo="https://i.postimg.cc/63VSjvyk/teleuno.png" group-title="COSTA RICA", TELE UNO
-http://tv.teleunotv.cr:1935/TVUNO/TVUNO/playlist.m3u8
-
-#EXTINF:-130 tvg-logo="https://i.postimg.cc/6pCZMyFX/canal6rd.png" group-title="REPÚBLICA DOMINICANA", CANAL 6 DAJABÓN
-https://cdn4.hostlagarto.com:8081/static/canal6tv/playlist.m3u8
-
-#EXTINF:-133 tvg-logo="https://i.postimg.cc/SsRJbs1j/galaxiatv.png" group-title="REPÚBLICA DOMINICANA", GALAXIA TV
-https://vdo1.streamgato.us:3839/live/galaxiatvlive.m3u8
-
 #EXTINF:-130 tvg-logo="https://i.postimg.cc/bv7NWTnV/supertv55.png" group-title="REPÚBLICA DOMINICANA", SUPER TV 55
 https://ss8.domint.net:3128/stv_str/tv55/master.m3u8
-
-#EXTINF:-130 tvg-logo="https://i.postimg.cc/LXF2Nsdr/microvision.jpg" group-title="REPÚBLICA DOMINICANA", MICROVISIÓN
-http://190.103.183.24:1935/live/MicroHD/chunklist_w1468779956.m3u8
-
-#EXTINF:-130 tvg-logo="https://i.postimg.cc/bv2dqMg0/teleislas.webp" group-title="COLOMBIA", TELEÍSLAS
-http://vbox2.cehis.net/live-teleislas/smil:teleislas.smil/playlist.m3u8
 
 #EXTINF:-130 tvg-logo="https://i.postimg.cc/153npvrD/suramtv.png" group-title="COLOMBIA", SURAM TV
 https://5b3050bb1b2d8.streamlock.net/suramtv/suramtv/chunklist_w1875220129.m3u8
@@ -210,17 +144,8 @@ https://5b3050bb1b2d8.streamlock.net/suramtv/suramtv/chunklist_w1875220129.m3u8
 #EXTINF:-133 tvg-logo="https://i.postimg.cc/ZKDtYqC3/cholusat36.gif" group-title="OTROS PAÍSES", CHOLUSAT SUR CANAL 36 (Honduras)
 http://audioTVserver.net:1935/livemedia/cholusat/chunklist_w1981374450.m3u8
 
-#EXTINF:-175 tvg-logo="https://i.postimg.cc/SR3fvmmn/xtrematv.png" group-title="EVANGÉLICO", EXTREMA TV
-https://www.livestreamcdn.net:444/ExtremaTV/_definst_/ExtremaTV/chunklist_w755934857.m3u8
-
 #EXTINF:-200 tvg-logo="https://i.postimg.cc/52jYn9gs/utntv.jpg" group-title="ARGENTINA", UTNTV
 http://streaming.arcast.com.ar:1935/utntv/utntv/playlist.m3u8
-
-#EXTINF:-200 tvg-logo="https://i.postimg.cc/8c0wYGpj/SANTAFECANAL.png" group-title="ARGENTINA", 5RTV SANTA FE CANAL
-http://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
-
-#EXTINF:-240 tvg-logo="https://i.postimg.cc/0j2fGcsV/readytv.png" group-title="REPÚBLICA DOMINICANA", READY TV
-http://190.103.183.24:1935/ReadyTV/ReadyHD/chunklist.m3u8
 
 #EXTINF:-290 tvg-logo="https://i.postimg.cc/ZRnY9sKT/HISPANTV.jpg" group-title="NOTICIAS", HISPAN TV
 https://live.presstv.com/live/smil:live.smil/chunklist_w1703495832_b644100_slen.m3u8
@@ -257,3 +182,12 @@ https://rt-esp.secure.footprint.net/1102.m3u8?fluxustv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pEj3hCA.png" group-title="MEXICO",ADN 40
 https://aztkhlslive3-i.akamaihd.net/hls/live/777407/adn40mx/master.m3u8
+
+#EXTINF:-19 tvg-logo="https://radiosuceso.com/wp-content/uploads/2020/06/logo-listo-1-300x300.png" group-title="NACIONALES", SUCESO TV
+https://59ce1298bfb98.streamlock.net/sucesotv/sucesotv/playlist.m3u8
+
+#EXTINF:-21 tvg-logo="https://somosdeleste.com.py/wp-content/uploads/2019/09/somos@1xx.png" group-title="NACIONALES", SOMOS DEL ESTE TV
+https://59ce1298bfb98.streamlock.net/somosdeleste/somosdeleste/playlist.m3u8
+
+#EXTINF:-130 tvg-logo="https://i.postimg.cc/bv2dqMg0/teleislas.webp" group-title="COLOMBIA", TELEÍSLAS
+http://vbox2.cehis.net/live-teleislas/smil:teleislas.smil/playlist.m3u8

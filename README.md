@@ -165,7 +165,89 @@ https://59ce1298bfb98.streamlock.net/somosdeleste/somosdeleste/playlist.m3u8
 #EXTINF:-29 tvg-logo="https://1.bp.blogspot.com/-Jt9iLTl60OI/YFerCGX_48I/AAAAAAAAAE0/iMHDPAdTFF4uL1-uDqEq8kidNq40CCvwwCPcBGAYYCw/w1200-h630-p-k-no-nu/Emprende%2BTV%2Blogo.png" group-title="NACIONALES", EMPRENDE TV
 https://59ce1298bfb98.streamlock.net/emprendetv/emprendetv/playlist.m3u8
 
+#EXTINF:-64 tvg-logo="https://i.postimg.cc/RFDW6NTH/5tvlinares.png" group-title="CHILE" ,5TV LINARES
+http://unlimited1-us.dps.live/tv5/tv5.smil/tv5/livestream1/chunks.m3u8
 
+#EXTINF:-102 tvg-logo="https://i.postimg.cc/0QYJ38GM/huascotv.jpg" group-title="CHILE", HUASCO TV
+https://paneltv.online:1936/8062/8062/playlist.m3u8
+
+#EXTINF:-105 tvg-logo="https://i.postimg.cc/fLz06G88/canal74.jpg" group-title="CHILE", CANAL 74 TV
+https://Stmv1.zcastbr.com/canal74hd/canal74hd/playlist.m3u8
+
+#EXTINF:-106 tvg-logo="https://i.postimg.cc/G2vdxtFN/ALERCE.png" group-title="CHILE", SUR VISIÓN ALERCE TV
+http://170.79.102.254:1935/pruebacamara/Survision_tv_alerce/chunklist_w1568568829.m3u8
+
+#EXTINF:-106 tvg-logo="https://i.postimg.cc/4dWwMbQh/tvmaule.png" group-title="CHILE", TV MAULE LIVE
+https://cloud2.streaminglivehd.com:1936/8002/8002/chunklist_w1175212722.m3u8?WebM3UCL
+
+#EXTINF:-121 tvg-logo="https://i.postimg.cc/P5dgBKmS/telesurcr.png" group-title="COSTA RICA", TELESUR
+http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
+
+#EXTINF:-122 tvg-logo="https://i.postimg.cc/L5ByDK02/ticavision.png" group-title="COSTA RICA", TICAVISIÓN
+http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
+
+#EXTINF:-124 tvg-logo="https://i.postimg.cc/63VSjvyk/teleuno.png" group-title="COSTA RICA", TELE UNO
+http://tv.teleunotv.cr:1935/TVUNO/TVUNO/playlist.m3u8
+
+#EXTINF:-130 tvg-logo="https://i.postimg.cc/6pCZMyFX/canal6rd.png" group-title="REPÚBLICA DOMINICANA", CANAL 6 DAJABÓN
+https://cdn4.hostlagarto.com:8081/static/canal6tv/playlist.m3u8
+
+#EXTINF:-133 tvg-logo="https://i.postimg.cc/SsRJbs1j/galaxiatv.png" group-title="REPÚBLICA DOMINICANA", GALAXIA TV
+https://vdo1.streamgato.us:3839/live/galaxiatvlive.m3u8
+
+#EXTINF:-130 tvg-logo="https://i.postimg.cc/bv7NWTnV/supertv55.png" group-title="REPÚBLICA DOMINICANA", SUPER TV 55
+https://ss8.domint.net:3128/stv_str/tv55/master.m3u8
+
+#EXTINF:-130 tvg-logo="https://i.postimg.cc/LXF2Nsdr/microvision.jpg" group-title="REPÚBLICA DOMINICANA", MICROVISIÓN
+http://190.103.183.24:1935/live/MicroHD/chunklist_w1468779956.m3u8
+
+#EXTINF:-130 tvg-logo="https://i.postimg.cc/bv2dqMg0/teleislas.webp" group-title="COLOMBIA", TELEÍSLAS
+http://vbox2.cehis.net/live-teleislas/smil:teleislas.smil/playlist.m3u8
+
+#EXTINF:-130 tvg-logo="https://i.postimg.cc/153npvrD/suramtv.png" group-title="COLOMBIA", SURAM TV
+https://5b3050bb1b2d8.streamlock.net/suramtv/suramtv/chunklist_w1875220129.m3u8
+
+#EXTINF:-133 tvg-logo="https://i.postimg.cc/ZKDtYqC3/cholusat36.gif" group-title="OTROS PAÍSES", CHOLUSAT SUR CANAL 36 (Honduras)
+http://audioTVserver.net:1935/livemedia/cholusat/chunklist_w1981374450.m3u8
+
+#EXTINF:-175 tvg-logo="https://i.postimg.cc/SR3fvmmn/xtrematv.png" group-title="EVANGÉLICO", EXTREMA TV
+https://www.livestreamcdn.net:444/ExtremaTV/_definst_/ExtremaTV/chunklist_w755934857.m3u8
+
+#EXTINF:-200 tvg-logo="https://i.postimg.cc/52jYn9gs/utntv.jpg" group-title="ARGENTINA", UTNTV
+http://streaming.arcast.com.ar:1935/utntv/utntv/playlist.m3u8
+
+#EXTINF:-200 tvg-logo="https://i.postimg.cc/8c0wYGpj/SANTAFECANAL.png" group-title="ARGENTINA", 5RTV SANTA FE CANAL
+http://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
+
+#EXTINF:-240 tvg-logo="https://i.postimg.cc/0j2fGcsV/readytv.png" group-title="REPÚBLICA DOMINICANA", READY TV
+http://190.103.183.24:1935/ReadyTV/ReadyHD/chunklist.m3u8
+
+#EXTINF:-290 tvg-logo="https://i.postimg.cc/ZRnY9sKT/HISPANTV.jpg" group-title="NOTICIAS", HISPAN TV
+https://live.presstv.com/live/smil:live.smil/chunklist_w1703495832_b644100_slen.m3u8
+
+#EXTINF:-291 tvg-logo="https://i.postimg.cc/28M0g1BT/telesurven.png" group-title="NOTICIAS", TELESUR
+https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/hd/playlist.m3u8
+
+#EXTINF:-292 tvg-logo="https://i.postimg.cc/x8R38dsJ/russiatoday.png" group-title="NOTICIAS", RT EN ESPAÑOL
+https://rt-esp-gd.secure2.footprint.net/1102_2500Kb.m3u8
+
+#EXTINF:-295 tvg-logo="https://i.postimg.cc/NG81tbPK/tve24.png" group-title="NOTICIAS", TVE 24H
+https://hlsliveamdgl8-lh.akamaihd.net/i/hlslive_1@300207/master.m3u8
+
+#EXTINF:-297 tvg-logo="https://i.postimg.cc/HWfXbRcv/adn40.png" group-title="NOTICIAS", ADN40
+http://aztkhlslive3-i.akamaihd.net/hls/live/777407/adn40mx/master01.m3u8
+
+#EXTINF:-300 tvg-logo="https://i.postimg.cc/qvYT7sZK/cgtnes.png" group-title="OTROS PAÍSES", CGTN ESPAÑOL (China)
+http://livees.cgtn.com/1000e/prog_index.m3u8
+
+#EXTINF:-301 tvg-logo="https://i.postimg.cc/8PCkPBbp/DWES.png" group-title="OTROS PAÍSES", DW (Alemania)
+http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8
+
+#EXTINF:-439 tvg-logo="https://i.postimg.cc/VkfLzXN7/tvlatina.jpg" group-title="OTROS PAÍSES", TV LATINA
+https://master.tucableip.com/live/tvlatinamontero/index.m3u8
+
+#EXTINF:-439 tvg-logo="https://i.postimg.cc/sgs11tT4/pat.png" group-title="OTROS PAÍSES", PAT
+https://5975e06a1f292.streamlock.net:4443/patbolivia/patsantacruz/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kJcwaOU.png" group-title="LATIN AMERICA",DW Español
 http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8

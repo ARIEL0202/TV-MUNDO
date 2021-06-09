@@ -1,6 +1,3 @@
-#EXTINF:-1 tvg-id="141069" tvg-name="Educa TV" tvg-logo="https://educacion.gob.ec/wp-content/uploads/2012/10/Educa_sinfoto.jpg" group-title="ECUADOR", Educa TV
-https://cloud37.ecuatel.com/educa/educa/playlist.m3u8?PlaylistM3UCL&PlaylistM3UCL
-
 #EXTINF:-1 tvg-id="113859" tvg-name="RT" tvg-logo="https://lh3.googleusercontent.com/-lFxeunh5PmY/X5F4yyCtQ1I/AAAAAAAA6os/89eVaEZroogQRsDPzDjJ6lo8TUJYJsmoACK8BGAsYHg/s0/2020-10-22.png", RT
 https://rt-esp.secure.footprint.net/1102.m3u8?PlaylistM3UCL
 
@@ -69,12 +66,6 @@ http://ipflix.click:8080/h602/rflx42k17c/13526
 #EXTINF:-1 tvg-id="boing.es" tvg-name="Boing ES" tvg-logo="http://pici.life/ES/boing.png" group-title="Spain",Boing ES
 http://ipflix.click:8080/h602/rflx42k17c/8773
 
-#EXTINF:-1,Disney Channel HD ES http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/7225 
-#EXTINF:-1,Disney Junior ES http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/7224 
-#EXTINF:-1,Nickelodeon ES http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/7185 
-#EXTINF:-1,Nick Jr. ES http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/13526 
-#EXTINF:-1,Boing ES http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/8773 
-
 #EXTINF:-1 tvg-id="" tvg-name="Azteca Honduras HN" tvg-logo="" group-title="Latin America",Azteca Honduras HN
 http://ipflix.click:8080/h602/rflx42k17c/626967
 #EXTINF:-1 tvg-id="" tvg-name="Canal 5 HN" tvg-logo="" group-title="Latin America",Canal 5 HN
@@ -120,6 +111,9 @@ http://ipflix.click:8080/h602/rflx42k17c/15668
 #EXTINF:-1 tvg-id="canalcapital.co" tvg-name="Canal Capital CO" tvg-logo="http://pici.life/CO/Canal_Capital.png" group-title="Colombia",Canal Capital CO
 http://ipflix.click:8080/h602/rflx42k17c/15673
 
+#EXTINF:-1 tvg-id="141069" tvg-name="Educa TV" tvg-logo="https://educacion.gob.ec/wp-content/uploads/2012/10/Educa_sinfoto.jpg" group-title="ECUADOR", Educa TV
+https://cloud37.ecuatel.com/educa/educa/playlist.m3u8?PlaylistM3UCL&PlaylistM3UCL
+
 #EXTINF:-15 tvg-logo="https://i.postimg.cc/y8NmrWvJ/anduti-tv.png" group-title="NACIONALES", ÑANDUTÍ TV
 https://tvdatta.com:3839/live/nandutitvlive.m3u8
 
@@ -153,41 +147,14 @@ https://live.presstv.com/live/smil:live.smil/chunklist_w1703495832_b644100_slen.
 #EXTINF:-291 tvg-logo="https://i.postimg.cc/28M0g1BT/telesurven.png" group-title="NOTICIAS", TELESUR
 https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/hd/playlist.m3u8
 
-#EXTINF:-292 tvg-logo="https://i.postimg.cc/x8R38dsJ/russiatoday.png" group-title="NOTICIAS", RT EN ESPAÑOL
-https://rt-esp-gd.secure2.footprint.net/1102_2500Kb.m3u8
-
-#EXTINF:-295 tvg-logo="https://i.postimg.cc/NG81tbPK/tve24.png" group-title="NOTICIAS", TVE 24H
-https://hlsliveamdgl8-lh.akamaihd.net/i/hlslive_1@300207/master.m3u8
-
-#EXTINF:-297 tvg-logo="https://i.postimg.cc/HWfXbRcv/adn40.png" group-title="NOTICIAS", ADN40
-http://aztkhlslive3-i.akamaihd.net/hls/live/777407/adn40mx/master01.m3u8
-
-#EXTINF:-300 tvg-logo="https://i.postimg.cc/qvYT7sZK/cgtnes.png" group-title="OTROS PAÍSES", CGTN ESPAÑOL (China)
-http://livees.cgtn.com/1000e/prog_index.m3u8
-
-#EXTINF:-301 tvg-logo="https://i.postimg.cc/8PCkPBbp/DWES.png" group-title="OTROS PAÍSES", DW (Alemania)
-http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8
-
 #EXTINF:-439 tvg-logo="https://i.postimg.cc/VkfLzXN7/tvlatina.jpg" group-title="OTROS PAÍSES", TV LATINA
 https://master.tucableip.com/live/tvlatinamontero/index.m3u8
 
 #EXTINF:-439 tvg-logo="https://i.postimg.cc/sgs11tT4/pat.png" group-title="OTROS PAÍSES", PAT
 https://5975e06a1f292.streamlock.net:4443/patbolivia/patsantacruz/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kJcwaOU.png" group-title="LATIN AMERICA",DW Español
-http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.rt.com/static/block/touch-icon/apple-touch-icon-144x144-precomposed.png" group-title="LATIN AMERICA",RT Español
-https://rt-esp.secure.footprint.net/1102.m3u8?fluxustv.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pEj3hCA.png" group-title="MEXICO",ADN 40
-https://aztkhlslive3-i.akamaihd.net/hls/live/777407/adn40mx/master.m3u8
-
 #EXTINF:-19 tvg-logo="https://radiosuceso.com/wp-content/uploads/2020/06/logo-listo-1-300x300.png" group-title="NACIONALES", SUCESO TV
 https://59ce1298bfb98.streamlock.net/sucesotv/sucesotv/playlist.m3u8
-
-#EXTINF:-21 tvg-logo="https://somosdeleste.com.py/wp-content/uploads/2019/09/somos@1xx.png" group-title="NACIONALES", SOMOS DEL ESTE TV
-https://59ce1298bfb98.streamlock.net/somosdeleste/somosdeleste/playlist.m3u8
 
 #EXTINF:-130 tvg-logo="https://i.postimg.cc/bv2dqMg0/teleislas.webp" group-title="COLOMBIA", TELEÍSLAS
 http://vbox2.cehis.net/live-teleislas/smil:teleislas.smil/playlist.m3u8

@@ -25,21 +25,6 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-failarmy/CDN/1280x720_5000000/ind
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gV2Vmr9.png" group-title="USA",FailArmy (Opt-2)
 http://dai.google.com/linear/hls/event/7tuuoX1wSsCTaki1HqJFYw/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fcnRf1f.png" group-title="FRANCE",Fashion TV (Opt-1)
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8
-
-#EXTINF:-1,MODA:HD Fashion
-http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?xtreamiptv.m3u8
-
-#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052019/fashion_tv_2009_symbol.png?cVFRoMuFTxEWh0CmC_3DoU.NenvZVtOW&itok=auBIH1Oi" group-title="MODA",FTV Midnight Secret
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="127319" tvg-name="Chic Magazine" tvg-logo="https://lh3.googleusercontent.com/-VQiXnvScrdo/X9kBIY6eCeI/AAAAAAAA8Pk/RqwvHCzyqT07Izb5NG9RLx7serX6u18JQCK8BGAsYHg/s0/2020-12-15.png", Chic Magazine
-https://paneltv.online:1936/8056/8056/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Hjc7XaY.png" group-title="COLOMBIA",Canal CNC Pasto
-http://66.240.236.25:1936/cncpasto/cncpasto/chunklist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cvoNi6F.png" group-title="PERU",Cultura 24 
 http://vs8.live.opencaster.com/cultura24/smil:cultura24/chunklist_w1710773429_b564000_sles.m3u8
 
@@ -155,6 +140,9 @@ https://5975e06a1f292.streamlock.net:4443/patbolivia/patsantacruz/playlist.m3u8
 
 #EXTINF:-19 tvg-logo="https://radiosuceso.com/wp-content/uploads/2020/06/logo-listo-1-300x300.png" group-title="NACIONALES", SUCESO TV
 https://59ce1298bfb98.streamlock.net/sucesotv/sucesotv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Hjc7XaY.png" group-title="COLOMBIA",Canal CNC Pasto
+http://66.240.236.25:1936/cncpasto/cncpasto/chunklist.m3u8
 
 #EXTINF:-130 tvg-logo="https://i.postimg.cc/bv2dqMg0/teleislas.webp" group-title="COLOMBIA", TELEÍSLAS
 http://vbox2.cehis.net/live-teleislas/smil:teleislas.smil/playlist.m3u8

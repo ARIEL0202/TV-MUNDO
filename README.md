@@ -138,8 +138,26 @@ https://master.tucableip.com/live/tvlatinamontero/index.m3u8
 #EXTINF:-439 tvg-logo="https://i.postimg.cc/sgs11tT4/pat.png" group-title="OTROS PAÍSES", PAT
 https://5975e06a1f292.streamlock.net:4443/patbolivia/patsantacruz/playlist.m3u8
 
+#EXTINF:-124 tvg-logo="https://i.postimg.cc/tgv71sqH/telemas.png" group-title="COSTA RICA", TELE MÁS
+https://cp.sradiotv.com:1936/8064/8064/chunklist_w989385140.m3u8
+
+#EXTINF:-132 tvg-logo="https://i.postimg.cc/brKGThTr/telenord.png" group-title="REPÚBLICA DOMINICANA", TELENORD 10
+http://newyorkstream.ddns.net:5854/telenord10/telenord10/chunklist.m3u8
+
 #EXTINF:-19 tvg-logo="https://radiosuceso.com/wp-content/uploads/2020/06/logo-listo-1-300x300.png" group-title="NACIONALES", SUCESO TV
 https://59ce1298bfb98.streamlock.net/sucesotv/sucesotv/playlist.m3u8
+
+#EXTINF:-124 tvg-logo="https://i.postimg.cc/66mT62HV/tvsur14.png" group-title="COSTA RICA", TV SUR CANAL 14
+https://5bf8041cb3fed.streamlock.net/TVSURCANAL14/TVSURCANAL14/playlist.m3u8
+
+#EXTINF:-130 tvg-logo="https://i.postimg.cc/5tCFXjqG/canal56.jpg" group-title="REPÚBLICA DOMINICANA", TV RECUERDOS CANAL 56
+https://cloudflare.streamgato.us:3549/live/canal56live.m3u8
+
+#EXTINF:-133 tvg-logo="https://i.postimg.cc/qqjhYKBz/canalonce.jpg" group-title="OTROS PAÍSES", CANAL 11 ZULIA (Venezuela)
+https://tinyurl.com/y6nj4aas
+
+#EXTINF:-432 tvg-logo="https://i.postimg.cc/SRjZg75r/orbitatv.png" group-title="MÚSICA", ÓRBITA TV
+https://5dcabf026b188.streamlock.net/orbitatv/livestream/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Hjc7XaY.png" group-title="COLOMBIA",Canal CNC Pasto
 http://66.240.236.25:1936/cncpasto/cncpasto/chunklist.m3u8

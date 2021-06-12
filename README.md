@@ -8,7 +8,7 @@ https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8?PlaylistM3
 http://livees.cgtn.com/1000e/prog_index.m3u8
 
 #EXTINF:-1 tvg-id="102481" tvg-name="Canal Capital" tvg-logo="https://lh3.googleusercontent.com/-Emi_jrNT71c/XqeMwoB2P-I/AAAAAAAAyS4/pUS5P-UYKsoW5xFT9RQjmCl7ONAL0oG4wCK8BGAsYHg/s0/2020-04-27.png", Canal Capital
-https://mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8?PlaylistM3UCL
+https://mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8?PlaylistM3UCL     
 
 #EXTINF:-1 tvg-logo="http://revmakers.com/wp-content/uploads/2016/08/reconline.png" group-title="CINE",Rec Online TV
 http://america.tucableip.com:8181/reconline/live/tracks-v1a1/mono.m3u8

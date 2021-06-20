@@ -164,3 +164,162 @@ http://66.240.236.25:1936/cncpasto/cncpasto/chunklist.m3u8
 
 #EXTINF:-130 tvg-logo="https://i.postimg.cc/bv2dqMg0/teleislas.webp" group-title="COLOMBIA", TELEÍSLAS
 http://vbox2.cehis.net/live-teleislas/smil:teleislas.smil/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="CHILE HD | 24 HORAS" tvg-logo="" group-title="CHILE",CHILE HD | 24 HORAS
+http://lozanostv.net:8000/iptv/iptv/8598
+#EXTINF:-1 tvg-id="" tvg-name="CHILE HD | CANAL 13" tvg-logo="" group-title="CHILE",CHILE HD | CANAL 13
+http://lozanostv.net:8000/iptv/iptv/8591
+#EXTINF:-1 tvg-id="" tvg-name="CHILE HD | CHILEVISION" tvg-logo="" group-title="CHILE",CHILE HD | CHILEVISION
+http://lozanostv.net:8000/iptv/iptv/8589
+#EXTINF:-1 tvg-id="" tvg-name="CHILE | ETC" tvg-logo="" group-title="CHILE",CHILE | ETC
+http://lozanostv.net:8000/iptv/iptv/8592
+#EXTINF:-1 tvg-id="" tvg-name="CHILE HD | LA RED" tvg-logo="" group-title="CHILE",CHILE HD | LA RED
+http://lozanostv.net:8000/iptv/iptv/8587
+#EXTINF:-1 tvg-id="" tvg-name="CHILE | MEGA " tvg-logo="" group-title="CHILE",CHILE | MEGA 
+http://lozanostv.net:8000/iptv/iptv/8595
+#EXTINF:-1 tvg-id="" tvg-name="CHILE | CANAL 13" tvg-logo="" group-title="CHILE",CHILE | CANAL 13
+http://lozanostv.net:8000/iptv/iptv/8594
+#EXTINF:-1 tvg-id="" tvg-name="CHILE HD | Canal 5 Linares" tvg-logo="http://lpch.cl/images/tv/canal-5-linares.png" group-title="CHILE",CHILE HD | Canal 5 Linares
+http://lozanostv.net:8000/iptv/iptv/8601
+#EXTINF:-1 tvg-id="" tvg-name="CHILE | CHILEVISION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Chilevisi%C3%B3n_%282018-%29.png/90px-Chilevisi%C3%B3n_%282018-%29.png" group-title="CHILE",CHILE | CHILEVISION
+http://lozanostv.net:8000/iptv/iptv/8590
+#EXTINF:-1 tvg-id="" tvg-name="CHILE HD | MEGA" tvg-logo="" group-title="CHILE",CHILE HD | MEGA
+http://lozanostv.net:8000/iptv/iptv/8596
+#EXTINF:-1 tvg-id="" tvg-name="CHILE | Pintana TV" tvg-logo="http://lpch.cl/images/tv/pintana-tv.jpg" group-title="CHILE",CHILE | Pintana TV
+http://lozanostv.net:8000/iptv/iptv/8604
+#EXTINF:-1 tvg-id="" tvg-name="CHILE HD | TELETRAk TV" tvg-logo="" group-title="CHILE",CHILE HD | TELETRAk TV
+http://lozanostv.net:8000/iptv/iptv/8585
+#EXTINF:-1 tvg-id="" tvg-name="CHILE HD | TVN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Logotipo_de_Televisi%C3%B3n_Nacional_de_Chile.svg/90px-Logotipo_de_Televisi%C3%B3n_Nacional_de_Chile.svg.png" group-title="CHILE",CHILE HD | TVN
+http://lozanostv.net:8000/iptv/iptv/8605
+#EXTINF:-1 tvg-id="" tvg-name="CHILE DEP | CDF HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/CDF_Logo.svg/150px-CDF_Logo.svg.png" group-title="CHILE",CHILE DEP | CDF HD
+http://lozanostv.net:8000/iptv/iptv/60829
+#EXTINF:-1 tvg-id="" tvg-name="CHILE DEP | CDO PREMIUM HD" tvg-logo="https://www.nicepng.com/png/full/419-4196216_cdo-premium-canal-cdo.png" group-title="CHILE",CHILE DEP | CDO PREMIUM HD
+http://lozanostv.net:8000/iptv/iptv/60833
+#EXTINF:-1 tvg-id="" tvg-name="CHILE DEP | FOX SPORTS 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/150px-FOX_Sports_logo.svg.png" group-title="CHILE",CHILE DEP | FOX SPORTS 1
+http://lozanostv.net:8000/iptv/iptv/60827
+#EXTINF:-1 tvg-id="" tvg-name="CHILE DEP | FOX SPORTS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/150px-FOX_Sports_logo.svg.png" group-title="CHILE",CHILE DEP | FOX SPORTS 2
+http://lozanostv.net:8000/iptv/iptv/60828
+#EXTINF:-1 tvg-id="" tvg-name="COL | CANAL TRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Canal_tro_logo.PNG/150px-Canal_tro_logo.PNG" group-title="COLOMBIA",COL | CANAL TRO
+http://lozanostv.net:8000/iptv/iptv/8822
+#EXTINF:-1 tvg-id="" tvg-name="COL | CANAL UNO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Channel_1_%28Colombia%29_-_2017_logo.svg/125px-Channel_1_%28Colombia%29_-_2017_logo.svg.png" group-title="COLOMBIA",COL | CANAL UNO
+http://lozanostv.net:8000/iptv/iptv/8823
+#EXTINF:-1 tvg-id="" tvg-name="COL | CARACOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/125px-Caracol_Televisi%C3%B3n_logo.svg.png" group-title="COLOMBIA",COL | CARACOL
+http://lozanostv.net:8000/iptv/iptv/8820
+#EXTINF:-1 tvg-id="" tvg-name="COL | CityTv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/City_tv_Bogot%C3%A1_logo.svg/170px-City_tv_Bogot%C3%A1_logo.svg.png" group-title="COLOMBIA",COL | CityTv
+http://lozanostv.net:8000/iptv/iptv/8714
+#EXTINF:-1 tvg-id="" tvg-name="COL | HOLA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/%C2%A1HOLA%21TVlogo.jpg/220px-%C2%A1HOLA%21TVlogo.jpg" group-title="COLOMBIA",COL | HOLA TV
+http://lozanostv.net:8000/iptv/iptv/6705
+#EXTINF:-1 tvg-id="" tvg-name="COL | NTN 24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NTN24_logo.svg/245px-NTN24_logo.svg.png" group-title="COLOMBIA",COL | NTN 24
+http://lozanostv.net:8000/iptv/iptv/6703
+#EXTINF:-1 tvg-id="" tvg-name="COL | RCN NOVELAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Canal_RCN_logo.svg/125px-Canal_RCN_logo.svg.png" group-title="COLOMBIA",COL | RCN NOVELAS
+http://lozanostv.net:8000/iptv/iptv/8825
+#EXTINF:-1 tvg-id="" tvg-name="COL | RCN NUESTRA TELE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Canal_RCN_logo.svg/125px-Canal_RCN_logo.svg.png" group-title="COLOMBIA",COL | RCN NUESTRA TELE
+http://lozanostv.net:8000/iptv/iptv/8826
+#EXTINF:-1 tvg-id="" tvg-name="COL | SEÑAL COLOMBIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Se%C3%B1al_Colombia_logo.svg/200px-Se%C3%B1al_Colombia_logo.svg.png" group-title="COLOMBIA",COL | SEÑAL COLOMBIA
+http://lozanostv.net:8000/iptv/iptv/8827
+#EXTINF:-1 tvg-id="" tvg-name="COL | TELECAFE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Telecaf%C3%A9_logo.svg/200px-Telecaf%C3%A9_logo.svg.png" group-title="COLOMBIA",COL | TELECAFE
+http://lozanostv.net:8000/iptv/iptv/8829
+#EXTINF:-1 tvg-id="" tvg-name="COL | TELECARIBE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Telecaribe2017.png/150px-Telecaribe2017.png" group-title="COLOMBIA",COL | TELECARIBE
+http://lozanostv.net:8000/iptv/iptv/8830
+#EXTINF:-1 tvg-id="" tvg-name="COL | TELEPACIFICO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Telepac%C3%ADfico.png/125px-Telepac%C3%ADfico.png" group-title="COLOMBIA",COL | TELEPACIFICO
+http://lozanostv.net:8000/iptv/iptv/8832
+#EXTINF:-1 tvg-id="" tvg-name="COL | WIN  SPORTS + FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Win_Sports%2B_logo.svg/1200px-Win_Sports%2B_logo.svg.png" group-title="COLOMBIA",COL | WIN  SPORTS + FHD
+http://lozanostv.net:8000/iptv/iptv/31406
+#EXTINF:-1 tvg-id="" tvg-name="COL | WIN SPORTS +  SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Win_Sports%2B_logo.svg/1200px-Win_Sports%2B_logo.svg.png" group-title="COLOMBIA",COL | WIN SPORTS +  SD
+http://lozanostv.net:8000/iptv/iptv/33229
+#EXTINF:-1 tvg-id="" tvg-name="COL HD | CABLE NOTICIAS COLOMBIA " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Cable_Noticias_logo.svg/175px-Cable_Noticias_logo.svg.png" group-title="COLOMBIA",COL HD | CABLE NOTICIAS COLOMBIA 
+http://lozanostv.net:8000/iptv/iptv/6704
+#EXTINF:-1 tvg-id="" tvg-name="COL HD | CARACOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Caracol_TV_HD_logo.svg/1200px-Caracol_TV_HD_logo.svg.png" group-title="COLOMBIA",COL HD | CARACOL
+http://lozanostv.net:8000/iptv/iptv/6683
+#EXTINF:-1 tvg-id="" tvg-name="COL HD | CARACOL INTERNACIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/99/Caracol_Internacional_2017.png" group-title="COLOMBIA",COL HD | CARACOL INTERNACIONAL
+http://lozanostv.net:8000/iptv/iptv/6684
+#EXTINF:-1 tvg-id="" tvg-name="COL HD | MI MUSICA TROPICAL" tvg-logo="" group-title="COLOMBIA",COL HD | MI MUSICA TROPICAL
+http://lozanostv.net:8000/iptv/iptv/6711
+#EXTINF:-1 tvg-id="" tvg-name="COL HD | MUSICA URBANA" tvg-logo="" group-title="COLOMBIA",COL HD | MUSICA URBANA
+http://lozanostv.net:8000/iptv/iptv/6712
+#EXTINF:-1 tvg-id="" tvg-name="COL HD | RCN NUESTRA TELE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Canal_RCN_logo.svg/125px-Canal_RCN_logo.svg.png" group-title="COLOMBIA",COL HD | RCN NUESTRA TELE
+http://lozanostv.net:8000/iptv/iptv/6685
+#EXTINF:-1 tvg-id="" tvg-name="COL HD | TELE CARIBE DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Telecaribe2017.png/150px-Telecaribe2017.png" group-title="COLOMBIA",COL HD | TELE CARIBE DEPORTES
+http://lozanostv.net:8000/iptv/iptv/6700
+#EXTINF:-1 tvg-id="" tvg-name="COL HD | TELECAFE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Telecaf%C3%A9_logo.svg/200px-Telecaf%C3%A9_logo.svg.png" group-title="COLOMBIA",COL HD | TELECAFE
+http://lozanostv.net:8000/iptv/iptv/6706
+#EXTINF:-1 tvg-id="" tvg-name="COL HD | TELEMEDELLIN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Logotipo_de_Telemedell%C3%ADn.png/150px-Logotipo_de_Telemedell%C3%ADn.png" group-title="COLOMBIA",COL HD | TELEMEDELLIN
+http://lozanostv.net:8000/iptv/iptv/8831
+#EXTINF:-1 tvg-id="" tvg-name="COL HD | TV AGRO " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/TV_Agro_logo.svg/245px-TV_Agro_logo.svg.png" group-title="COLOMBIA",COL HD | TV AGRO 
+http://lozanostv.net:8000/iptv/iptv/6708
+#EXTINF:-1 tvg-id="" tvg-name="COL DEP | DIRECTV SPORTS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/DirecTV_Sports_Latin_America_-_2018_logo_v2.svg/200px-DirecTV_Sports_Latin_America_-_2018_logo_v2.svg.png" group-title="COLOMBIA",COL DEP | DIRECTV SPORTS 2
+http://lozanostv.net:8000/iptv/iptv/6698
+#EXTINF:-1 tvg-id="" tvg-name="COL DEP | ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/150px-ESPN_wordmark.svg.png" group-title="COLOMBIA",COL DEP | ESPN
+http://lozanostv.net:8000/iptv/iptv/6690
+#EXTINF:-1 tvg-id="" tvg-name="COL DEP | ESPN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/150px-ESPN_wordmark.svg.png" group-title="COLOMBIA",COL DEP | ESPN 2
+http://lozanostv.net:8000/iptv/iptv/6691
+#EXTINF:-1 tvg-id="" tvg-name="COL DEP | ESPN 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/150px-ESPN_wordmark.svg.png" group-title="COLOMBIA",COL DEP | ESPN 3
+http://lozanostv.net:8000/iptv/iptv/6692
+#EXTINF:-1 tvg-id="" tvg-name="COL DEP | FOX SPORTS 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/175px-FOX_Sports_logo.svg.png" group-title="COLOMBIA",COL DEP | FOX SPORTS 1
+http://lozanostv.net:8000/iptv/iptv/6694
+#EXTINF:-1 tvg-id="" tvg-name="COL DEP | FOX SPORTS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/175px-FOX_Sports_logo.svg.png" group-title="COLOMBIA",COL DEP | FOX SPORTS 2
+http://lozanostv.net:8000/iptv/iptv/6695
+#EXTINF:-1 tvg-id="" tvg-name="COL DEP | FOX SPORTS 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/175px-FOX_Sports_logo.svg.png" group-title="COLOMBIA",COL DEP | FOX SPORTS 3
+http://lozanostv.net:8000/iptv/iptv/6696
+#EXTINF:-1 tvg-id="" tvg-name="COL DEP | WIN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Win_Sports%2B_logo.svg/1200px-Win_Sports%2B_logo.svg.png" group-title="COLOMBIA",COL DEP | WIN SPORT
+http://lozanostv.net:8000/iptv/iptv/6688
+#EXTINF:-1 tvg-id="" tvg-name="CUBA | MARTI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Logo_of_Radio_y_Televisi%C3%B3n_Mart%C3%AD.svg/220px-Logo_of_Radio_y_Televisi%C3%B3n_Mart%C3%AD.svg.png" group-title="CUBA",CUBA | MARTI
+http://lozanostv.net:8000/iptv/iptv/60903
+
+#EXTINF:-1 tvg-id="" tvg-name="BOL | ATB" tvg-logo="https://tvmi.com.bo/wp-content/uploads/sites/2/2017/11/logoatb.png" group-title="BOLIVIA",BOL | ATB
+http://lozanostv.net:8000/iptv/iptv/45580
+#EXTINF:-1 tvg-id="" tvg-name="BOL | BOLIVIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/43/BoliviaTVlogotwo.png" group-title="BOLIVIA",BOL | BOLIVIA TV
+http://lozanostv.net:8000/iptv/iptv/47755
+#EXTINF:-1 tvg-id="" tvg-name="BOL | Bolivision" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/BolivisionHD.png/150px-BolivisionHD.png" group-title="BOLIVIA",BOL | Bolivision
+http://lozanostv.net:8000/iptv/iptv/45578
+#EXTINF:-1 tvg-id="" tvg-name="BOL | RED UNO" tvg-logo="https://px.cdn.reduno.com.bo/reduno/122017/1544505888786.png" group-title="BOLIVIA",BOL | RED UNO
+http://lozanostv.net:8000/iptv/iptv/48385
+#EXTINF:-1 tvg-id="" tvg-name="BOL | RTP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/RTP_Bolivia_Hd.png/120px-RTP_Bolivia_Hd.png" group-title="BOLIVIA",BOL | RTP
+http://lozanostv.net:8000/iptv/iptv/45581
+#EXTINF:-1 tvg-id="" tvg-name="BOL | UNITEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Unitel_logo_HD.png" group-title="BOLIVIA",BOL | UNITEL
+http://lozanostv.net:8000/iptv/iptv/47754
+
+#EXTINF:-1 tvg-id="canaluno.ec" tvg-name="EC | CANAL UNO HD" tvg-logo="https://radiosecuador.sfo2.digitaloceanspaces.com/tvenvivoecuador/canal/canal-uno-logo.jpg" group-title="ECUADOR",EC | CANAL UNO HD
+http://lozanostv.net:8000/iptv/iptv/3321
+#EXTINF:-1 tvg-id="canaluno.ec" tvg-name="EC | CANAL UNO SD" tvg-logo="https://radiosecuador.sfo2.digitaloceanspaces.com/tvenvivoecuador/canal/canal-uno-logo.jpg" group-title="ECUADOR",EC | CANAL UNO SD
+http://lozanostv.net:8000/iptv/iptv/3322
+#EXTINF:-1 tvg-id="canelatv.ec" tvg-name="EC | CANELA TV" tvg-logo="https://1.bp.blogspot.com/-jZYyPEePNO8/Xw9a7Ti5BpI/AAAAAAAAByU/rylPmiIpXfUeKc6r5ApwYKK1NdHamcG0wCLcBGAsYHQ/s540/canelatv_logoroku.jpg" group-title="ECUADOR",EC | CANELA TV
+http://lozanostv.net:8000/iptv/iptv/3323
+#EXTINF:-1 tvg-id="ecuadortv.ec" tvg-name="EC | ECUADOR TV HD" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/ecuador-tv-218x150.png" group-title="ECUADOR",EC | ECUADOR TV HD
+http://lozanostv.net:8000/iptv/iptv/3327
+#EXTINF:-1 tvg-id="ecuadortv.ec" tvg-name="EC | ECUADOR TV INTERNACIONAL" tvg-logo="https://2.bp.blogspot.com/-EI3mJRm3-lU/WhL0RuTOFOI/AAAAAAAAcsk/9nEFbNi8I-0ut_xY3JjwCDK4TsFMqRjlACLcBGAs/s1600/EcuadorTV%2BInternacional%2Ben%2Bvivo.PNG" group-title="ECUADOR",EC | ECUADOR TV INTERNACIONAL
+http://lozanostv.net:8000/iptv/iptv/8076
+#EXTINF:-1 tvg-id="ecuadortv.ec" tvg-name="EC | ECUADOR TV SD" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/ecuador-tv-218x150.png" group-title="ECUADOR",EC | ECUADOR TV SD
+http://lozanostv.net:8000/iptv/iptv/3326
+#EXTINF:-1 tvg-id="ecuavisa.ec" tvg-name="EC | ECUAVISA HD" tvg-logo="https://radiosecuador.sfo2.digitaloceanspaces.com/tvenvivoecuador/canal/ecuavisa.png" group-title="ECUADOR",EC | ECUAVISA HD
+http://lozanostv.net:8000/iptv/iptv/3324
+#EXTINF:-1 tvg-id="ecuavisa.ec" tvg-name="EC | ECUAVISA SD " tvg-logo="https://radiosecuador.sfo2.digitaloceanspaces.com/tvenvivoecuador/canal/ecuavisa.png" group-title="ECUADOR",EC | ECUAVISA SD 
+http://lozanostv.net:8000/iptv/iptv/3325
+#EXTINF:-1 tvg-id="gama.ec" tvg-name="EC | GAMAVISION HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Gamavisi%C3%B3n2018new.png" group-title="ECUADOR",EC | GAMAVISION HD
+http://lozanostv.net:8000/iptv/iptv/3329
+#EXTINF:-1 tvg-id="gama.ec" tvg-name="EC | GAMAVISION SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Gamavisi%C3%B3n2018new.png" group-title="ECUADOR",EC | GAMAVISION SD
+http://lozanostv.net:8000/iptv/iptv/3328
+#EXTINF:-1 tvg-id="" tvg-name="EC | HECHOS ECUADOR" tvg-logo="https://www.hechosecuador.com/rw_common/images/HECHOS%20LOGO%20REAL%202018.png" group-title="ECUADOR",EC | HECHOS ECUADOR
+http://lozanostv.net:8000/iptv/iptv/2238
+#EXTINF:-1 tvg-id="oromar.ec" tvg-name="EC | OROMAR TV SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/Oromar_logo.png" group-title="ECUADOR",EC | OROMAR TV SD
+http://lozanostv.net:8000/iptv/iptv/3332
+#EXTINF:-1 tvg-id="rts.ec" tvg-name="EC | RTS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Rts_logo.png" group-title="ECUADOR",EC | RTS HD
+http://lozanostv.net:8000/iptv/iptv/3335
+#EXTINF:-1 tvg-id="rts.ec" tvg-name="EC | RTS SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Rts_logo.png" group-title="ECUADOR",EC | RTS SD
+http://lozanostv.net:8000/iptv/iptv/3334
+#EXTINF:-1 tvg-id="tctelevision.ec" tvg-name="EC | TC TELEVISION HD" tvg-logo="https://radiosecuador.sfo2.digitaloceanspaces.com/tvenvivoecuador/canal/tc.png" group-title="ECUADOR",EC | TC TELEVISION HD
+http://lozanostv.net:8000/iptv/iptv/3337
+#EXTINF:-1 tvg-id="tctelevision.ec" tvg-name="EC | TC TELEVISION SD" tvg-logo="https://radiosecuador.sfo2.digitaloceanspaces.com/tvenvivoecuador/canal/tc.png" group-title="ECUADOR",EC | TC TELEVISION SD
+http://lozanostv.net:8000/iptv/iptv/3336
+#EXTINF:-1 tvg-id="teleamazonas.ec" tvg-name="EC | TELEAMAZONAS GYQ FHD" tvg-logo="https://radiosecuador.sfo2.digitaloceanspaces.com/tvenvivoecuador/canal/Teleamazonas-logo.jpg" group-title="ECUADOR",EC | TELEAMAZONAS GYQ FHD
+http://lozanostv.net:8000/iptv/iptv/3338
+#EXTINF:-1 tvg-id="teleamazonas.ec" tvg-name="EC | TELEAMAZONAS GYQ SD" tvg-logo="https://radiosecuador.sfo2.digitaloceanspaces.com/tvenvivoecuador/canal/Teleamazonas-logo.jpg" group-title="ECUADOR",EC | TELEAMAZONAS GYQ SD
+http://lozanostv.net:8000/iptv/iptv/3339
+#EXTINF:-1 tvg-id="teleamazonas.ec" tvg-name="EC | TELEAMAZONAS QUITO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Teleamazonas_Logo.png" group-title="ECUADOR",EC | TELEAMAZONAS QUITO
+http://lozanostv.net:8000/iptv/iptv/31409
+#EXTINF:-1 tvg-id="" tvg-name="EC | TVC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/TVCEC.png" group-title="ECUADOR",EC | TVC HD
+http://lozanostv.net:8000/iptv/iptv/3342
+#EXTINF:-1 tvg-id="" tvg-name="EC | TVC SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/TVCEC.png" group-title="ECUADOR",EC | TVC SD
+http://lozanostv.net:8000/iptv/iptv/3341
+

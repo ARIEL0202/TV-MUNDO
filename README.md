@@ -44,7 +44,7 @@ http://audioTVserver.net:1935/livemedia/cholusat/chunklist_w1981374450.m3u8
 http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/oWya6SB.png" group-title="Canales Peruanos", Central TV | SD
-http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
+http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8   
 
 #EXTINF:-130 tvg-logo="https://i.postimg.cc/153npvrD/suramtv.png" group-title="COLOMBIA", SURAM TV
 https://5b3050bb1b2d8.streamlock.net/suramtv/suramtv/chunklist_w1875220129.m3u8

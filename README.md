@@ -1,5 +1,5 @@
-#EXTINF:-1 tvg-id="113859" tvg-name="RT" tvg-logo="https://lh3.googleusercontent.com/-lFxeunh5PmY/X5F4yyCtQ1I/AAAAAAAA6os/89eVaEZroogQRsDPzDjJ6lo8TUJYJsmoACK8BGAsYHg/s0/2020-10-22.png", RT
-https://rt-esp.secure.footprint.net/1102.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="" group-title="Lista TV", RT ESPANOL
+https://rt-esp.gcdn.co/live/rtesp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="83641" tvg-name="DW Español" tvg-logo="https://lh3.googleusercontent.com/--AW1Ecwc3mA/XkCKi0vJyKI/AAAAAAAAv8A/EEsjeBXIHI84UAgvUar2SUVbxJv69E9GACK8BGAsYHg/s0/2020-02-09.png", DW Español
 https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8?PlaylistM3UCL

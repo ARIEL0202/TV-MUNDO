@@ -100,3 +100,6 @@ https://panel.streamingtv-mediacp.online:1936/8044/8044/playlist.m3u8
 #EXTINF:-175 tvg-logo="https://i.postimg.cc/wj2CgsGY/orbe21.png" group-title="CATÓLICO", ORBE 21
 https://cdn2.zencast.tv:30443/orbe/orbe21smil/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/77uVMGw.png" group-title="CINE Y SERIES 2",LA MIA TV
+https://ss8.domint.net:3108/mia_str/lamiatv/playlist.m3u8
+

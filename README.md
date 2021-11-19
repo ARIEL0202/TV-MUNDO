@@ -1,6 +1,9 @@
 #EXTINF:-1 tvg-logo="" group-title="Lista TV", RT ESPANOL
 https://rt-esp.gcdn.co/live/rtesp/playlist.m3u8
 
+#EXTINF: -1 group-title = "DOCUMENTAL" tvg-logo = "https://innovatv.live/posters/1602351396312.png", DW
+http://54.39.49.162:8081/DW/USA%7CDW/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GEUzSd4.png" group-title="LATIN AMERICA",CGTN Español 
 http://livees.cgtn.com/1000e/prog_index.m3u8
 
@@ -70,8 +73,6 @@ http://edge1.cl.grupoz.cl/canal21tv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.uestv.cl/sites/all/themes/uestv/images/logo.png" group-title="Canales Chilenos",UESTV
 http://cl.origin.grupoz.cl/uestv/live/playlist.m3u8
 
-
-
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/2daf50_fbcac3e81cb04000a0a6ca2702f72b22~mv2.jpg" group-title="Canales Chilenos", UMAG TV
 http://edge1.cl.grupoz.cl/tser5/live/playlist.m3u8
 
@@ -104,4 +105,26 @@ https://cdn2.zencast.tv:30443/orbe/orbe21smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/77uVMGw.png" group-title="CINE Y SERIES 2",LA MIA TV
 https://ss8.domint.net:3108/mia_str/lamiatv/playlist.m3u8
+
+#EXTINF: -1 group-title = "Chile" tvg-logo = "https://innovatv.live/posters/1602553126246.png", 13I
+http://54.39.48.63:8081/CHILE%7C13/CHILE%7C13/playlist.m3u8
+
+#EXTINF: -1 group-title = "Chile" tvg-logo = "https://innovatv.live/posters/1602553435296.png", MEGA-TV
+http://66.70.176.103:8081/CHILE%7CMEGA/CHILE%7CMEGA/playlist.m3u8
+#EXTINF: -1 group-title = "Colombia" tvg-logo = "https://innovatv.live/posters/1602536403301.png", CARACOL
+http://54.39.48.63:8081/COLOMBIA%7CCARACOL/COLOMBIA%7CCARACOL/playlist.m3u8
+#EXTINF: -1 group-title = "Colombia" tvg-logo = "https://innovatv.live/posters/1602536436469.png", CITY-TV
+http://54.39.48.63:8081/COLOMBIA%7CCITYTV/COLOMBIA%7CCITYTV/playlist.m3u8
+#EXTINF: -1 group-title = "Colombia" tvg-logo = "https://innovatv.live/posters/1602536477227.png", NTN24
+http://54.39.48.63:8081/COLOMBIA%7CNTN24/COLOMBIA%7CNTN24/playlist.m3u8
+
+#EXTINF: -1 group-title = "Puerto Rico" tvg-logo = "https://innovatv.live/posters/1602347521589.jpg", MEGA
+http://51.79.18.128:8081/PUERTORICO%7CMEGA/PUERTORICO%7CMEGA/playlist.m3u8
+#EXTINF: -1 group-title = "Puerto Rico" tvg-logo = "https://innovatv.live/posters/1602347650483.png", PUNTO2
+http://51.79.18.128:8081/PUERTORICO%7CPUNTO2/PUERTORICO%7CPUNTO2/playlist.m3u8
+
+#EXTINF: -1 group-title = "Puerto Rico" tvg-logo = "https://innovatv.live/posters/1602347903184.jpg", WAPA
+http://51.79.18.128:8081/PUERTORICO%7CWAPA/PUERTORICO%7CWAPA/playlist.m3u8
+#EXTINF: -1 group-title = "Puerto Rico" tvg-logo = "https://innovatv.live/posters/1602347959455.png", WIPR
+http://51.79.18.128:8081/PUERTORICO%7CWIPR/PUERTORICO%7CWIPR/playlist.m3u8
 

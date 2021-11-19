@@ -70,6 +70,8 @@ http://edge1.cl.grupoz.cl/canal21tv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.uestv.cl/sites/all/themes/uestv/images/logo.png" group-title="Canales Chilenos",UESTV
 http://cl.origin.grupoz.cl/uestv/live/playlist.m3u8
 
+
+
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/2daf50_fbcac3e81cb04000a0a6ca2702f72b22~mv2.jpg" group-title="Canales Chilenos", UMAG TV
 http://edge1.cl.grupoz.cl/tser5/live/playlist.m3u8
 

@@ -13,9 +13,6 @@ http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GEUzSd4.png" group-title="LATIN AMERICA",CGTN Español 
 http://livees.cgtn.com/1000e/prog_index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DOCUMENTALES Y CULTURA", SUPER TV 55
-http://ss8.domint.net:2128/stv_str/tv55/chunklist_w19976954.m3u8
-
 #EXTINF:-1 tvg-id="60801317a0ccef00072aaf75" tvg-chno="455" tvg-logo="https://images.pluto.tv/channels/60801317a0ccef00072aaf75/colorLogoPNG.png" group-title="Intrattenimento",The Pet Collective
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60801317a0ccef00072aaf75/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 

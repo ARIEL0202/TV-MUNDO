@@ -133,9 +133,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60802de3fd2d70000763bb
 #EXTINF:-1 tvg-id="60802e86a6997500072cfe90" tvg-chno="505" tvg-logo="https://images.pluto.tv/channels/60802e86a6997500072cfe90/colorLogoPNG.png" group-title="Musica",Loupe
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60802e86a6997500072cfe90/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1,RCG
-http://wowzacontrol.com:1936/stream23/stream23/playlist.m3u8
-
 #EXTINF:-1,TELEMAX
 http://s5.mexside.net:1935/telemax/telemax/.m3u8
 
@@ -157,19 +154,10 @@ https://unlimited1-us.dps.live/atv/atv.smil/atv/livestream2/chunks.m3u8
 #EXTINF:-1,EP
 http://streaming.elpinguino.com:1935/live/pinguinotv_720p/hasbahca.m3u8
 
-#EXTINF:-1 tvg-id="176031" tvg-name=" Anime Zone" tvg-logo="https://i.imgur.com/z1VIGD7.png" group-title="00 - Argentina",  Anime Zone
-http://azxtv.com/hls/stream.m3u8?PlaylistM3UCL
-
 #EXTINF:-1 tvg-id="HilandoFino.it" tvg-country="IT" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="Italy",Hilando Fino (720p)
 http://4k-server-mia.2cdn.eu/HilandoFinoTV/ngrp:HilandoFinoTV_all/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DOCUMENTALES Y CULTURA", SUPER TV 55
-http://ss8.domint.net:2128/stv_str/tv55/chunklist_w19976954.m3u8
 
 #EXTINF:-58 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/Pakapaka_logo20.png" group-title="NIÑOS Y ADOLESCENTES", PAKA PAKA
 https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/chunklist_w1354145754.m3u8
 
-------------------------------------------------------------------------------------------------------------------
 
-#EXTINF:-1 tvg-logo="http://revmakers.com/wp-content/uploads/2016/08/reconline.png" group-title="CINE",Rec Online TV
-http://america.tucableip.com:8181/reconline/live/tracks-v1a1/mono.m3u8

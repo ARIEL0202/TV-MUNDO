@@ -168,3 +168,6 @@ http://unlimited10-cl.dps.live/isb/isb.smil/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="" group-title="Lista TV", ESTRELLA TV
 https://estrellatv-roku.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="78105" tvg-name="Ruidos TV" tvg-logo="https://lh3.googleusercontent.com/-OYgpvMljozw/Xxy-3V91rJI/AAAAAAAA3WI/1Tr5TT2vvDw63C_2ZoSu5mmvTvZV4UDFACK8BGAsYHg/s0/2020-07-25.png" group-title="Musicales", Ruidos TV
+https://593b04c4c5670.streamlock.net:443/8038/8038/playlist.m3u8?PlaylistM3UCL

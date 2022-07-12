@@ -174,3 +174,9 @@ https://593b04c4c5670.streamlock.net:443/8038/8038/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-131 tvg-logo="https://i.postimg.cc/brKGThTr/telenord.png" group-title="REPÚBLICA DOMINICANA", TELENORD 8
 http://newyorkstream.ddns.net:5854/telenord8/telenord8/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/27/c9/a6/27c9a690f48240790263160b279f2221.jpg" group-title="INTERNACIONAL", CANAL 25 REP DOMINICANA
+http://190.122.96.188:8888/http/004
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Panamericana_Televisi%C3%B3n.svg/512px-Panamericana_Televisi%C3%B3n.svg.png" group-title="INTERNACIONAL", PANAMERICANA TV
+https://cdnhd.iblups.com/hls/ptv2.m3u8

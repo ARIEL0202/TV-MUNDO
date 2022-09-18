@@ -17,7 +17,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6093f48c95132a00075fd8
 http://unlimited1-us.dps.live/tv5/tv5.smil/tv5/livestream1/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://web-cdn.blivenyc.com/generic/mee.logo-golden-trans.png" group-title="USA",AKC TV 
-https://video.blivenyc.com/broadcast/prod/2061/22/file-3192k.m3u8
+https://video.blivenyc.com/broadcast/prod/2061/22/file-3192k.m3u8   
 
 #EXTINF:-133 tvg-logo="https://i.postimg.cc/ZKDtYqC3/cholusat36.gif" group-title="OTROS PAÍSES", CHOLUSAT SUR CANAL 36 (Honduras)
 http://audioTVserver.net:1935/livemedia/cholusat/chunklist_w1981374450.m3u8

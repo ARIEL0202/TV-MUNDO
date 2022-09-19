@@ -1,3 +1,136 @@
+#EXTINF:-1,Pinky y Cerebro S01 E01
+http://fivetv.org:25461/series/victor/victor/3563.mkv
+#EXTINF:-1,Pinky y Cerebro S01 E02
+http://fivetv.org:25461/series/victor/victor/3564.mkv
+#EXTINF:-1,Pinky y Cerebro S01 E03
+http://fivetv.org:25461/series/victor/victor/3565.mkv
+#EXTINF:-1,Pinky y Cerebro S01 E04
+http://fivetv.org:25461/series/victor/victor/3566.mkv
+#EXTINF:-1,Pinky y Cerebro S01 E05
+http://fivetv.org:25461/series/victor/victor/3567.mkv
+#EXTINF:-1,Pinky y Cerebro S01 E06
+http://fivetv.org:25461/series/victor/victor/3568.mkv
+#EXTINF:-1,Pinky y Cerebro S01 E07
+http://fivetv.org:25461/series/victor/victor/3569.mkv
+#EXTINF:-1,Pinky y Cerebro S01 E08
+http://fivetv.org:25461/series/victor/victor/3570.mkv
+#EXTINF:-1,Pinky y Cerebro S01 E09
+http://fivetv.org:25461/series/victor/victor/3571.mkv
+#EXTINF:-1,Pinky y Cerebro S01 E10
+http://fivetv.org:25461/series/victor/victor/3572.mkv
+#EXTINF:-1,Pinky y Cerebro S01 E11
+http://fivetv.org:25461/series/victor/victor/3573.mkv
+#EXTINF:-1,Pinky y Cerebro S01 E12
+http://fivetv.org:25461/series/victor/victor/3574.mkv
+#EXTINF:-1,Pinky y Cerebro S01 E13
+http://fivetv.org:25461/series/victor/victor/3575.mkv
+#EXTINF:-1,Pinky y Cerebro S02 E01
+http://fivetv.org:25461/series/victor/victor/3576.mkv
+#EXTINF:-1,Pinky y Cerebro S02 E02
+http://fivetv.org:25461/series/victor/victor/3577.mkv
+#EXTINF:-1,Pinky y Cerebro S02 E03
+http://fivetv.org:25461/series/victor/victor/3578.mkv
+#EXTINF:-1,Pinky y Cerebro S02 E04
+http://fivetv.org:25461/series/victor/victor/3579.mkv
+#EXTINF:-1,Pinky y Cerebro S02 E05
+http://fivetv.org:25461/series/victor/victor/3580.mkv
+#EXTINF:-1,Pinky y Cerebro S02 E06
+http://fivetv.org:25461/series/victor/victor/3581.mkv
+#EXTINF:-1,Pinky y Cerebro S02 E07
+http://fivetv.org:25461/series/victor/victor/3582.mkv
+#EXTINF:-1,Pinky y Cerebro S02 E08
+http://fivetv.org:25461/series/victor/victor/3583.mkv
+#EXTINF:-1,Pinky y Cerebro S02 E09
+http://fivetv.org:25461/series/victor/victor/3584.mkv
+#EXTINF:-1,Pinky y Cerebro S02 E10
+http://fivetv.org:25461/series/victor/victor/3585.mkv
+#EXTINF:-1,Pinky y Cerebro S02 E11
+http://fivetv.org:25461/series/victor/victor/3586.mkv
+#EXTINF:-1,Pinky y Cerebro S02 E12
+http://fivetv.org:25461/series/victor/victor/3587.mkv
+#EXTINF:-1,Pinky y Cerebro S03 E01
+http://fivetv.org:25461/series/victor/victor/3588.mkv
+#EXTINF:-1,Pinky y Cerebro S03 E02
+http://fivetv.org:25461/series/victor/victor/3589.mkv
+#EXTINF:-1,Pinky y Cerebro S03 E03
+http://fivetv.org:25461/series/victor/victor/3590.mkv
+#EXTINF:-1,Pinky y Cerebro S03 E04
+http://fivetv.org:25461/series/victor/victor/3591.mkv
+#EXTINF:-1,Pinky y Cerebro S03 E05
+http://fivetv.org:25461/series/victor/victor/3592.mkv
+#EXTINF:-1,Pinky y Cerebro S03 E06
+http://fivetv.org:25461/series/victor/victor/3593.mkv
+#EXTINF:-1,Pinky y Cerebro S03 E07
+http://fivetv.org:25461/series/victor/victor/3594.mkv
+#EXTINF:-1,Pinky y Cerebro S03 E08
+http://fivetv.org:25461/series/victor/victor/3595.mkv
+#EXTINF:-1,Pinky y Cerebro S03 E09
+http://fivetv.org:25461/series/victor/victor/3596.mkv
+#EXTINF:-1,Pinky y Cerebro S03 E10
+http://fivetv.org:25461/series/victor/victor/3597.mkv
+#EXTINF:-1,Pinky y Cerebro S03 E11
+http://fivetv.org:25461/series/victor/victor/3598.mkv
+#EXTINF:-1,Pinky y Cerebro S03 E12
+http://fivetv.org:25461/series/victor/victor/3599.mkv
+#EXTINF:-1,Pinky y Cerebro S03 E13
+http://fivetv.org:25461/series/victor/victor/3600.mkv
+#EXTINF:-1,Pinky y Cerebro S03 E14
+http://fivetv.org:25461/series/victor/victor/3601.mkv
+#EXTINF:-1,Pinky y Cerebro S03 E15
+http://fivetv.org:25461/series/victor/victor/3602.mkv
+#EXTINF:-1,Pinky y Cerebro S03 E16
+http://fivetv.org:25461/series/victor/victor/3603.mkv
+#EXTINF:-1,Pinky y Cerebro S03 E17
+http://fivetv.org:25461/series/victor/victor/3604.mkv
+#EXTINF:-1,Pinky y Cerebro S03 E18
+http://fivetv.org:25461/series/victor/victor/3605.mkv
+#EXTINF:-1,Pinky y Cerebro S03 E19
+http://fivetv.org:25461/series/victor/victor/3606.mkv
+#EXTINF:-1,Pinky y Cerebro S03 E20
+http://fivetv.org:25461/series/victor/victor/3607.mkv
+#EXTINF:-1,Pinky y Cerebro S03 E21
+http://fivetv.org:25461/series/victor/victor/3608.mkv
+#EXTINF:-1,Pinky y Cerebro S03 E22
+http://fivetv.org:25461/series/victor/victor/3609.mkv
+#EXTINF:-1,Pinky y Cerebro S03 E23
+http://fivetv.org:25461/series/victor/victor/3610.mkv
+#EXTINF:-1,Pinky y Cerebro S03 E24
+http://fivetv.org:25461/series/victor/victor/3611.mkv
+#EXTINF:-1,Pinky y Cerebro S03 E25
+http://fivetv.org:25461/series/victor/victor/3612.mkv
+#EXTINF:-1,Pinky y Cerebro S03 E26
+http://fivetv.org:25461/series/victor/victor/3613.mkv
+#EXTINF:-1,Pinky y Cerebro S03 E27
+http://fivetv.org:25461/series/victor/victor/3614.mkv
+#EXTINF:-1,Pinky y Cerebro S03 E28
+http://fivetv.org:25461/series/victor/victor/3615.mkv
+#EXTINF:-1,Pinky y Cerebro S03 E29
+http://fivetv.org:25461/series/victor/victor/3616.mkv
+#EXTINF:-1,Pinky y Cerebro S03 E30
+http://fivetv.org:25461/series/victor/victor/3617.mkv
+#EXTINF:-1,Pinky y Cerebro S03 E31
+http://fivetv.org:25461/series/victor/victor/3618.mkv
+#EXTINF:-1,Pinky y Cerebro S03 E32
+http://fivetv.org:25461/series/victor/victor/3619.mkv
+#EXTINF:-1,Pinky y Cerebro S03 E33
+http://fivetv.org:25461/series/victor/victor/3620.mkv
+#EXTINF:-1,Pinky y Cerebro S04 E01
+http://fivetv.org:25461/series/victor/victor/3621.mkv
+#EXTINF:-1,Pinky y Cerebro S04 E02
+http://fivetv.org:25461/series/victor/victor/3622.mkv
+#EXTINF:-1,Pinky y Cerebro S04 E03
+http://fivetv.org:25461/series/victor/victor/3623.mkv
+#EXTINF:-1,Pinky y Cerebro S04 E04
+http://fivetv.org:25461/series/victor/victor/3624.mkv
+#EXTINF:-1,Pinky y Cerebro S04 E05
+http://fivetv.org:25461/series/victor/victor/3625.mkv
+#EXTINF:-1,Pinky y Cerebro S04 E06
+http://fivetv.org:25461/series/victor/victor/3626.mkv
+#EXTINF:-1,Pinky y Cerebro S04 E07
+http://fivetv.org:25461/series/victor/victor/3627.mkv
+
+------------------------------------------------------------------------------------------------------------
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GEUzSd4.png" group-title="LATIN AMERICA",CGTN Español 
 http://livees.cgtn.com/1000e/prog_index.m3u8
 

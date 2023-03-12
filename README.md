@@ -1,12 +1,6 @@
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GEUzSd4.png" group-title="LATIN AMERICA",CGTN Español 
 http://livees.cgtn.com/1000e/prog_index.m3u8
 
-#EXTINF:-1 tvg-id="1015" tvg-name="PlanetaTV Kids" tvg-logo="https://i2.paste.pics/a49ae885facb1146cad8aadff09c4ca7.png", PlanetaTV Kids | CL
-https://tls-cl.cdnz.cl/planetatvkids/live/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="1019" tvg-name="Latino Kids TV" tvg-logo="https://i2.paste.pics/1902290cf19fb0c3de2fa9fa9a03a396.png", Latino Kids TV | UY
-https://videostreaming.cloudserverlatam.com/8062/8062/playlist.m3u8?PlaylistM3UCL
-
 #EXTINF:-1 tvg-id="608015ea48a6e800076f0f2f" tvg-chno="605" tvg-logo="https://images.pluto.tv/channels/608015ea48a6e800076f0f2f/colorLogoPNG.png" group-title="Sport",IGN
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608015ea48a6e800076f0f2f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
@@ -18,9 +12,6 @@ http://unlimited1-us.dps.live/tv5/tv5.smil/tv5/livestream1/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://web-cdn.blivenyc.com/generic/mee.logo-golden-trans.png" group-title="USA",AKC TV 
 https://video.blivenyc.com/broadcast/prod/2061/22/file-3192k.m3u8   
-
-#EXTINF:-133 tvg-logo="https://i.postimg.cc/ZKDtYqC3/cholusat36.gif" group-title="OTROS PAÍSES", CHOLUSAT SUR CANAL 36 (Honduras)
-http://audioTVserver.net:1935/livemedia/cholusat/chunklist_w1981374450.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/TgSeikY.png" group-title="Canales Hondureños", TEN Honduras | HD
 http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/master.m3u8
@@ -36,9 +27,6 @@ http://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="60802de3fd2d70000763bb83" tvg-chno="500" tvg-logo="https://images.pluto.tv/channels/60802de3fd2d70000763bb83/colorLogoPNG.png" group-title="Musica",Clubbing TV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60802de3fd2d70000763bb83/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-58 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/Pakapaka_logo20.png" group-title="NIÑOS Y ADOLESCENTES", PAKA PAKA
-https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/chunklist_w1354145754.m3u8
 
 #EXTINF:-1, Unicanal www.achoAPPS.com
 http://45.55.127.106/live/unicanal_src.m3u8

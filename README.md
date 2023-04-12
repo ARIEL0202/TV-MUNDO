@@ -25,12 +25,6 @@ http://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="60802de3fd2d70000763bb83" tvg-chno="500" tvg-logo="https://images.pluto.tv/channels/60802de3fd2d70000763bb83/colorLogoPNG.png" group-title="Musica",Clubbing TV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60802de3fd2d70000763bb83/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1, Unicanal www.achoAPPS.com
-http://45.55.127.106/live/unicanal_src.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Mezzo_Logo.svg/1280px-Mezzo_Logo.svg.png" group-title="FRANCE",Mezzo 
-http://ott-cdn.ucom.am/s35/index.m3u8?fluxustv.m3u8
-
 #EXTINF:-1 tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/d5dd6f15-1fc2-46d0-b45e-57f4c5c897c6-small3x1_EPGLogoSTIRR_Logo_0420_Classica_1920x1080_EPG.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="MUSICA", STINGRAY CLASSICA
 https://dai.google.com/linear/hls/event/AaFxJXOhQl-BsTVC9OCunQ/master.m3u8
 
@@ -42,9 +36,6 @@ https://tastemade-es8intl-roku.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/80324_TV_Peru_Noticias.png" group-title="INTERNACIONAL", TV PERU NOTICIAS
 https://cdnh4.iblups.com/hls/RMuwrdk7M9.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/112080_TVGE_Internacional.png" group-title="INTERNACIONAL", TVGE INTERNACIONAL
-https://rrsatrtmp.tulix.tv/tvge1/tvge1multi.smil/chunklist_w2010324553_b800000.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.biobiochile.cl/assets/bbcltv-2019/img/share.png" group-title="INTERNACIONAL", BIO BIO TV CHILE
 https://unlimited1-us.dps.live/bbtv/bbtv.smil/bbtv/livestream2/chunks.m3u8    
@@ -113,13 +104,8 @@ https://unlimited1-cl-isp.dps.live/tctc/tctc.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="80" tvg-name="TV 5 Linares" tvg-logo="https://lh3.googleusercontent.com/-ocbRhw13yZU/YD59yD7KV1I/AAAAAAABAfA/YTu015L36W07t8HVpzWdjgAYJvY3a42QgCK8BGAsYHg/s512/2021-03-02.jpg", TV 5 Linares | CL
 https://unlimited1-cl-isp.dps.live/tv5/tv5.smil/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="77" tvg-name="TVR" tvg-logo="https://i2.paste.pics/138972442c9f6e8c471b5eecec021f08.png", TVR | CL
-https://unlimited1-cl-isp.dps.live/tvr/tvr.smil/playlist.m3u8?PlaylistM3UCL
-
 #EXTINF:-1 tvg-id="78" tvg-name="TVR Canal 11" tvg-logo="https://lh3.googleusercontent.com/-D7L3q2KhyFA/XjQLBVPp_xI/AAAAAAAAvhk/YiyvFKiyTV8wmlJ3AKPuWIP-c99ZP3I0QCK8BGAsYHg/s0/2020-01-31.png", TVR Canal 11 | CL
 https://unlimited6-cl.dps.live/tvrcurico/tvrcurico.smil/playlist.m3u8?PlaylistM3UCL
-
-
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------
@@ -159,20 +145,11 @@ https://nd106.republicaservers.com:4433/hls/canal2misioness/index.m3u8?PlaylistM
 #EXTINF:-1 tvg-id="813" tvg-name="Canal 2 Perico" tvg-logo="https://lh3.googleusercontent.com/-iyOpen-RjFA/YH4zezm-F9I/AAAAAAABBwY/w0GFRRxA6U4pbFHfPY-hpDCUo3-8hba4gCK8BGAsYHg/s512/2021-04-19.jpg", Canal 2 Perico | AR
 https://streamcasthd.com:1936/tecnovisioncanal2tv/tecnovisioncanal2tv/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="205" tvg-name="Canal 2 Sanagasta" tvg-logo="https://lh3.googleusercontent.com/-JkBVmTEb_vw/YFtd-AiCe7I/AAAAAAABA4I/D3j1TH_6YVw-5eulULSfVnU0APlEpWoVwCK8BGAsYHg/s512/2021-03-24.jpg", Canal 2 Sanagasta | AR
-https://stmvideo1.livecastv.com/canal2/canal2/playlist.m3u8?PlaylistM3UCL
-
 #EXTINF:-1 tvg-id="229" tvg-name="Canal 20 Villamaria" tvg-logo="https://i2.paste.pics/3595f1cf2a6659946f9ff0c1d61ef6cc.png", Canal 20 Villamaria | AR
 https://cronos.aldeaglobal.net.ar/hls/canal20.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="1057" tvg-name="Canal 21 TV" tvg-logo="https://i2.paste.pics/1cf289ea035226425388be580025cfd2.png", Canal 21 TV | AR
-https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/playlist.m3u8?PlaylistM3UCL
-
 #EXTINF:-1 tvg-id="257" tvg-name="Canal 4 Bahia Blanca" tvg-logo="https://lh3.googleusercontent.com/-bfgU_ufKFps/XrYKd9HJC_I/AAAAAAAA0hY/TxCOOPSR-R8fBb8zd9ThamFRUKIRsoFrACK8BGAsYHg/s0/2020-05-08.png", Canal 4 Bahia Blanca | AR
 https://vivo.solumedia.com:19360/bvconline/bvconline.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="233" tvg-name="CANAL 5TV" tvg-logo="https://lh3.googleusercontent.com/--7oMElpb_f8/X1TJDRFf8xI/AAAAAAAA5TU/1vhnTw3RmawstVTEtD4B7N9ymuaK5DqZwCK8BGAsYHg/s0/2020-09-06.jpg", CANAL 5TV | AR
-https://srv3.zcast.com.br/carlosr/carlosr/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="307" tvg-name="Canal 6 Entre Rios" tvg-logo="https://lh3.googleusercontent.com/-WaPcoRIsunA/X9djlAdcgmI/AAAAAAAA8OA/zTZ4rmvloRkADrSVnucZuvR1pZZKhA9sACK8BGAsYHg/s0/2020-12-14.png", Canal 6 Entre Rios | AR
 https://stmvideo1.livecastv.com/canal6er/canal6er/playlist.m3u8?PlaylistM3UCL
@@ -192,14 +169,34 @@ https://streamconex.com:1936/canalxfn/canalxfn/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="815" tvg-name="Celta TV" tvg-logo="https://lh3.googleusercontent.com/-C1wSnCmFUjc/YH41q4bAlNI/AAAAAAABBwo/CiJRyrGdDa0OVJOhHfrsuXCRCwe6T3VgACK8BGAsYHg/s512/2021-04-19.jpg", Celta TV | AR
 https://vivo.solumedia.com:19360/celta/celta.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="279" tvg-name="Chaco TV" tvg-logo="https://lh3.googleusercontent.com/-mgmL8cb_jtc/XjtDrQ3HzaI/AAAAAAAAvpI/tgRhGRWSXnsz9hvxd4oPgM16JpByuhRzwCK8BGAsYHg/s0/2020-02-05.png", Chaco TV | AR
-https://wowzasrv.chaco.gov.ar/Streamtv/chacotv/playlist.m3u8?PlaylistM3UCL
-
 #EXTINF:-1 tvg-id="1132" tvg-name="Ciudad Magica TV" tvg-logo="https://i2.paste.pics/83552d3fde11360055725a8d478f3c53.png", Ciudad Magica TV | AR
 https://videosenlared.fullstreaming.ar:3501/live/grupocitylive.m3u8?PlaylistM3UCL
 
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+#EXTINF:-1, Unicanal www.achoAPPS.com
+http://45.55.127.106/live/unicanal_src.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Mezzo_Logo.svg/1280px-Mezzo_Logo.svg.png" group-title="FRANCE",Mezzo 
+http://ott-cdn.ucom.am/s35/index.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/112080_TVGE_Internacional.png" group-title="INTERNACIONAL", TVGE INTERNACIONAL
+https://rrsatrtmp.tulix.tv/tvge1/tvge1multi.smil/chunklist_w2010324553_b800000.m3u8
+
+#EXTINF:-1 tvg-id="77" tvg-name="TVR" tvg-logo="https://i2.paste.pics/138972442c9f6e8c471b5eecec021f08.png", TVR | CL
+https://unlimited1-cl-isp.dps.live/tvr/tvr.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="205" tvg-name="Canal 2 Sanagasta" tvg-logo="https://lh3.googleusercontent.com/-JkBVmTEb_vw/YFtd-AiCe7I/AAAAAAABA4I/D3j1TH_6YVw-5eulULSfVnU0APlEpWoVwCK8BGAsYHg/s512/2021-03-24.jpg", Canal 2 Sanagasta | AR
+https://stmvideo1.livecastv.com/canal2/canal2/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="1057" tvg-name="Canal 21 TV" tvg-logo="https://i2.paste.pics/1cf289ea035226425388be580025cfd2.png", Canal 21 TV | AR
+https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="233" tvg-name="CANAL 5TV" tvg-logo="https://lh3.googleusercontent.com/--7oMElpb_f8/X1TJDRFf8xI/AAAAAAAA5TU/1vhnTw3RmawstVTEtD4B7N9ymuaK5DqZwCK8BGAsYHg/s0/2020-09-06.jpg", CANAL 5TV | AR
+https://srv3.zcast.com.br/carlosr/carlosr/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="279" tvg-name="Chaco TV" tvg-logo="https://lh3.googleusercontent.com/-mgmL8cb_jtc/XjtDrQ3HzaI/AAAAAAAAvpI/tgRhGRWSXnsz9hvxd4oPgM16JpByuhRzwCK8BGAsYHg/s0/2020-02-05.png", Chaco TV | AR
+https://wowzasrv.chaco.gov.ar/Streamtv/chacotv/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="1237" tvg-name="Corrientes TV" tvg-logo="https://i2.paste.pics/d78cddbf5fd84aa1abd31d836ab7341c.png", Corrientes TV | AR
 https://mediacp.hostradios.com.ar:19360/canal7/canal7.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="1143" tvg-name="Cosmos TV" tvg-logo="https://i2.paste.pics/7b84ec9ab4a77216f5de2b5a23f220a6.png", Cosmos TV | AR
-https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8?PlaylistM3UCL

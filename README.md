@@ -930,3 +930,44 @@ http://shoutfactory-redbox.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ShowtimeattheApollo.us" tvg-logo="https://i.imgur.com/jhJ25OQ.jpg" group-title="Entertainment",Showtime at the Apollo (432p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxshowtimeattheapollo/CDN/playlist.m3u8
+
+#EXTINF:-1,CARACOL
+http://181.78.8.90:16123/play/ch58
+#EXTINF:-1,RCN
+http://181.78.8.90:16123/play/ch59
+#EXTINF:-1,TELECARIBE
+http://181.78.8.90:16123/play/ch60
+#EXTINF:-1,SENAL COLOMBIA
+http://181.78.8.90:16123/play/ch61
+#EXTINF:-1,INSTITUCIONAL
+http://181.78.8.90:16123/play/ch62
+#EXTINF:-1,CANAL 1
+http://181.78.8.90:16123/play/ch63
+#EXTINF:-1,TRECE
+http://181.78.8.90:16123/play/ch64
+#EXTINF:-1,TELEANTIOQUIA
+http://181.78.8.90:16123/play/ch65
+#EXTINF:-1,TELEPACIFICO
+http://181.78.8.90:16123/play/ch66
+#EXTINF:-1,TELECAFE
+http://181.78.8.90:16123/play/ch67
+#EXTINF:-1,TRO
+http://181.78.8.90:16123/play/ch68
+#EXTINF:-1,CAPITAL
+http://181.78.8.90:16123/play/ch70
+#EXTINF:-1,zoom
+http://181.78.8.90:16123/play/ch71
+#EXTINF:-1,TELEMEDELLIN
+http://181.78.8.90:16123/play/ch73
+#EXTINF:-1,PASIONES
+http://181.78.8.90:16123/play/ch35
+#EXTINF:-1,VE PLUS
+http://181.78.8.90:16123/play/ch36
+#EXTINF:-1,TELEISLAS
+http://181.78.8.90:16123/play/ch37
+#EXTINF:-1,CONEXION
+http://181.78.8.90:16123/play/ch15
+#EXTINF:-1,MIGENTE
+http://181.78.8.90:16123/play/a06b
+#EXTINF:-1,CARTOON NETWORK
+http://181.78.8.90:16123/play/ch09

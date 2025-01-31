@@ -971,3 +971,62 @@ http://181.78.8.90:16123/play/ch15
 http://181.78.8.90:16123/play/a06b
 #EXTINF:-1,CARTOON NETWORK
 http://181.78.8.90:16123/play/ch09
+
+----------------------------------------------------------------------------------------------------------------
+
+#EXTINF:-1 tvg-id="Canal24Horas.es" tvg-logo="https://i.imgur.com/QYGrq71.png" group-title="VARIOS",Canal 24 Horas
+https://ztnr.rtve.es/ztnr/1694255.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="VARIOS",Canal Visión Dorada 
+https://movil.ejeserver.com/live/visiondorada.m3u8?_=1
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/Oromar_logo.png" tvg-name="OROMAR" group-title="VARIOS",OROMAR
+http://redima.pro:8880/1234567/1234567/466
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="VARIOS",AFV 
+https://linear-46.frequency.stream/dist/roku/46/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="84" tvg-name="T-Vinet" tvg-logo="https://lh3.googleusercontent.com/-EtM2JBuVazM/XxzIhLJW5PI/AAAAAAAA3YE/zmlykaL06y4tNI5JbuLPm-I1BSYsWCZYACK8BGAsYHg/s0/2020-07-25.png" group-title="VARIOS", T-Vinet   
+https://unlimited1-cl-isp.dps.live/inet2/inet2.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/mx/NickJr.mx.png" tvg-name="INTI" group-title="VARIOS",INTI
+http://redima.pro:8880/1234567/1234567/392
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/150px-TeleSUR-Logo.svg.png" tvg-name="ATV" group-title="VARIOS",ATV
+http://redima.pro:8880/1234567/1234567/446
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.caracolinternacional.com/static/media/CARACOLTV_LOGO_WEB.27d59d62.png" tvg-name="CARACOL INTERNACIONAL" group-title="VARIOS",CARACOL INTERNACIONAL
+http://redima.pro:8880/1234567/1234567/423
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/co/RCNNovelas.co.png" tvg-name="RCN" group-title="VARIOS",RCN
+http://redima.pro:8880/1234567/1234567/414
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/125px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png" tvg-name="NTN24" group-title="VARIOS",NTN24
+http://redima.pro:8880/1234567/1234567/419
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Gamavisi%C3%B3n2018new.png" tvg-name="GAMA TV" group-title="VARIOS",GAMA TV
+http://redima.pro:8880/1234567/1234567/463
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/1024px-ESPN_7_logo.svg.png" tvg-name="HISPAN TV" group-title="VARIOS",HISPAN TV
+http://redima.pro:8880/1234567/1234567/1005
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.ses.com/sites/default/files/inline-images/Asset%201-100.jpg" tvg-name="CANAL 4 URU" group-title="VARIOS",CANAL 4 URU
+http://redima.pro:8880/1234567/1234567/371
+
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="VENEZOLANA" group-title="VARIOS",VENEZOLANA 
+http://redima.pro:8880/1234567/1234567/377
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/1200px-Pasiones_Tv_logo.svg.png" tvg-name="PASIONES" group-title="VARIOS",PASIONES
+http://redima.pro:8880/1234567/1234567/402
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Tlnovelas_logo_2021.png" tvg-name="TELENOVELAS" group-title="VARIOS",TELENOVELAS
+http://redima.pro:8880/1234567/1234567/404
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/archive/9/99/20200205000404%21Estrella_TV_-_2020_logo.png" group-title="VARIOS", Estrella TV
+https://estrellatv-roku.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KANAL D" tvg-name="KANAL D" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/deportes/win-sports-plus.png" group-title="VARIOS",KANAL D
+http://nxt.plus:8080/olmos/1234guz/46973
+
+#EXTINF:0 tvg-id="ext" group-title="ARGENTINA",CANAL 34 SAN JUAN
+http://streamyes.alsolnet.com/canal34hd/live/chunklist_w332382386.m3u8

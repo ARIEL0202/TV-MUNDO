@@ -10,7 +10,7 @@ https://broadcast.blivenyc.com/speed/broadcast/22/desktop-playlist.m3u8
 #EXTINF:-1 tvg-id="HorseCountryTV.uk" tvg-logo="https://i.imgur.com/1x6zYZr.png" group-title="MUNDO",Horse & Country TV 
 https://hnc-free-viewlift.amagi.tv/HNC_AUSTRALIA.m3u8
 
-#EXTINF:-1 ,group-title="MUNDO", BHtv
+#EXTINF:-1 tvg-id="BHtv",group-title="MUNDO", BHtv
 http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="45161" tvg-name="UCV" tvg-logo="https://lh3.googleusercontent.com/-EuD3NFEVxqo/XwcVyOUbDHI/AAAAAAAA2mo/ZUkrO1nc7GQPy2ycgo8jROEUH3c9ASw-QCK8BGAsYHg/s0/2020-07-09.png" group-title="MUNDO", UCV

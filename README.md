@@ -28,6 +28,9 @@ http://unlimited6-cl.dps.live/girovisual2/girovisual2.smil/playlist.m3u8?Playlis
 #EXTINF:-1 tvg-logo="" group-title="MUNDO", ESTRELLA TV
 https://estrellatv-roku.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="EstrellaNews.us" tvg-logo="https://i.imgur.com/HRrkhLq.png" group-title="MUNDO",Estrella News 
+https://estrellanews-plex.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="76" tvg-name="Canal 2 de San Antonio" tvg-logo="https://lh3.googleusercontent.com/-8rzHJZdq8rY/Xb2AX9UW_tI/AAAAAAAAr58/gqkZ21n2nf4rm5Ah-lzNOz5ch6_JVUS5wCK8BGAsYHg/s0/2019-11-02.png" group-title="MUNDO", Canal 2 de San Antonio 
 https://unlimited1-cl-isp.dps.live/canal2/canal2.smil/playlist.m3u8?PlaylistM3UCL
 
@@ -55,12 +58,6 @@ https://vivo.solumedia.com:19360/celta/celta.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="82" tvg-name="Teleangol Radio" tvg-logo="https://lh3.googleusercontent.com/-zDgbgkPTFLA/XbCy7Dg-33I/AAAAAAAArlQ/712PcpxHNmAKjz1k4Arp_iVvpJ-qC_WxQCK8BGAsYHg/s0/2019-10-23.png" group-title="MUNDO", Teleangol Radio
 https://pantera1-100gb-cl-movistar.dps.live/teleangol/teleangol.smil/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="AghapyKids.us" tvg-logo="https://i.imgur.com/8ariztD.png" group-title="MUNDO",Aghapy Kids 
-https://5b622f07944df.streamlock.net/aghapykids.tv/aghapykids2/playlist.m3u8
-
-#EXTINF:-1 tvg-id="AzStarTV.ca" tvg-logo="https://i.imgur.com/di3XX5L.png" group-title="MUNDO",Az Star TV 
-http://live.azstartv.com/azstar/smil:azstar.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-id="bonappetit.us" tvg-logo="https://i.imgur.com/YhFFxlE.png" group-title="MUNDO",bon appétit 
 https://bonappetit-samsung.amagi.tv/playlist.m3u8
 
@@ -79,14 +76,8 @@ http://138.117.4.70:8075/channel9/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal9BioBioTelevision.cl" tvg-logo="https://i.imgur.com/J2G1WMs.png" group-title="MUNDO",Canal 9 Bío Bío Televisión
 https://unlimited6-cl.dps.live/c9/c9.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CanalISB.cl" tvg-logo="https://i.imgur.com/cQ4ggTw.png" group-title="MUNDO",Canal ISB (Iglesia San Bernardo) 
-https://unlimited1-us.dps.live/isb/isb.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-id="TVN14.cr" tvg-logo="https://i.imgur.com/4Xm75sJ.png" group-title="MUNDO",Canal 14 San Carlos 
 http://tvn.obix.tv:1935/TVN/CH14.stream_720p/playlist.m3u8
-
-#EXTINF:-1 tvg-id="CatveFM.br" tvg-logo="https://i.imgur.com/w89yw36.png" group-title="MUNDO",Catve FM 
-https://5b33b873179a2.streamlock.net:1443/radiocamera/livestream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="MUNDO",CDNN23
 http://138.117.4.70:8075/channel23/playlist.m3u8
@@ -106,26 +97,17 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 tvg-id="eSportsMaxTV.ve" tvg-logo="https://i.imgur.com/OprRgQN.png" group-title="MUNDO",Esports Max 
 http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MUNDO",Estrella TV 
-https://estrellatv-glewed.amagi.tv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="ETB1.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/ETB1_2022_logo.svg/512px-ETB1_2022_logo.svg.png" group-title="MUNDO",ETB 1 
 https://multimedia.eitb.eus/live-content/etb1hd-hls/master.m3u8
 
 #EXTINF:-1 tvg-id="ETB2.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/ETB2_2022_logo.svg/512px-ETB2_2022_logo.svg.png" group-title="MUNDO",ETB 2 
 https://multimedia.eitb.eus/live-content/etb2hd-hls/master.m3u8
 
-#EXTINF:-1 tvg-id="EstrellaNews.us" tvg-logo="https://i.imgur.com/HRrkhLq.png" group-title="MUNDO",Estrella News 
-https://estrellanews-plex.amagi.tv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="FernandinaBeachChannel.us" tvg-logo="https://i.imgur.com/9UfyekJ.png" group-title="MUNDO",Fernandina Beach City Meeting (Fernandina Beach FL) 
 https://edge-f.swagit.com/live/fernandinabeachfl/live-1-a/playlist.m3u8
 
 #EXTINF:-1 tvg-id="GenerationsTV.fr" tvg-logo="https://i.imgur.com/NgBrDMe.png" group-title="MUNDO",Generations TV 
 https://edge.vedge.infomaniak.com/livecast/ik:generation-tv/manifest.m3u8
-
-#EXTINF:-1 tvg-id="Girovisual.cl" tvg-logo="https://i.imgur.com/BYBMuhf.png" group-title="MUNDO",Girovisual
-https://unlimited1-cl-isp.dps.live/girovisual2/girovisual2.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="MUNDO",Gusto TV
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01077-gustoworldwidem-gustotvnz-samsungnz/playlist.m3u8
@@ -235,9 +217,6 @@ https://5926fc9c7c5b2.streamlock.net/9094/9094/playlist.m3u8
 #EXTINF:-1 tvg-id="RockAntenne.de" tvg-logo="https://i.imgur.com/nvFXRjH.png" group-title="MUNDO",Rock Antenne 
 https://stream.rockantenne.de/rockantenne/stream/mp3
 
-#EXTINF:-1 tvg-id="RTN.ar" tvg-logo="https://i.imgur.com/daMqavf.jpg" group-title="MUNDO",RTN (Neuquén) 
-http://media.neuquen.gov.ar/rtn/television/media.m3u8
-
 #EXTINF:-1 tvg-id="RTP.it" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/8/86/Logo_Radio_Televisione_Peloritana.svg/512px-Logo_Radio_Televisione_Peloritana.svg.png" group-title="MUNDO",RTP 
 https://flash2.xdevel.com/rtptv/rtptv/playlist.m3u8
 
@@ -249,9 +228,6 @@ https://pantera1-100gb-cl-movistar.dps.live/smtv/smtv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ShopLC.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Logo_of_Liquidation_Channel.svg/512px-Logo_of_Liquidation_Channel.svg.png" group-title="MUNDO",Shop LC 
 https://cdn-shop-lc-01.akamaized.net/Content/DASH_DASH/Live/channel(ott)/master.mpd
-
-#EXTINF:-1 tvg-id="ShoutFactoryTV.us" tvg-logo="https://i.imgur.com/AgoGr6y.png" group-title="MUNDO",Shout! Factory TV 
-http://shoutfactory-redbox.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Canal24Horas.es" tvg-logo="https://i.imgur.com/QYGrq71.png" group-title="MUNDO",Canal 24 Horas
 https://ztnr.rtve.es/ztnr/1694255.m3u8

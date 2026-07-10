@@ -1,13 +1,7 @@
 #EXTINF:-1 tvg-id="TVCentroHD.hn" tvg-logo="https://i.imgur.com/bcfmqHb.png" group-title="General",TV Centro 27.2 
 https://cloud2.streaminglivehd.com:1936/8004/8004/playlist.m3u8
 
-#EXTINF:-1 tvg-id="V2BEAT.uk" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/O341rZF.png" group-title="Music",V2BEAT (720p) [Not 24/7]
-https://abr.de1se01.v2beat.live/playlist.m3u8
-
-#EXTINF:-1 tvg-id="VTV.ar" tvg-country="AR-S" tvg-language="Spanish" tvg-logo="https://i.imgur.com/TLaausJ.png" group-title="Undefined",VerTV (VTV) (720p) [Not 24/7]
-https://5f700d5b2c46f.streamlock.net/vertv/vertv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="VTVValledeAconcagua.cl" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://i.imgur.com/k8qMo2O.jpg" group-title="Undefined",VTV Valle de Aconcagua (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="VTVValledeAconcagua.cl" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://i.imgur.com/k8qMo2O.jpg" group-title="Undefined",VTV Valle de Aconcagua 
 https://unlimited1-us.dps.live/vtv/vtv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="YoungHollywood.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/X27MGHd.png" group-title="Entertainment",Young Hollywood (720p)
@@ -16,19 +10,22 @@ https://younghollywood-rakuten-samsung.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ZooMooAustralia.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.imgur.com/1wYnA2i.jpg" group-title="Kids",Zoo Moo (Australia) (1080p)
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 
+-----------------------------------------------------------------------------------------------------------
+
+#EXTINF:-1 tvg-id="V2BEAT.uk" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/O341rZF.png" group-title="Music",V2BEAT
+https://abr.de1se01.v2beat.live/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/2d/Logo_futuro.gif" group-title="MUSICA",Futuro 88.9 (Chile)
 http://unlimited6-cl.dps.live/futurotv/futurotv.smil/playlist.m3u8
 
-#EXTINF:-1,6 TV - Crespo - ER Entre Rios
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0143
+-------------------------------------------------------------------------------------------------------------
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/821813567343226881/tWaRDe7v.jpg" group-title="Radios", truckers fm
 https://radio.truckers.fm/
 
-#EXTINF:-1 tvg-logo="https://goo.gl/v8VHQh" group-title="RADIOS", ATLANTIDA FM
-http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/playlist.m3u8?wowzasessionid=1838501070
 
-# EXTINF: -1, Sipse TV Cancún
+
+#EXTINF: -1, Sipse TV Cancún
 https://webprod.sipse.com.mx:8080/show/tvcun.m3u8
 
 #EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple19/v4/6a/5e/78/6a5e7862-acd6-80b4-579c-e3fbf845fbf8/source/512x512bb.jpg",PROMAR.TV
@@ -1406,4 +1403,8 @@ http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8
 
 #EXTINF:-1,Radio Van 103.0 FM Yerevan www.achoAPPS.com
 http://stream.radiovan.fm/stream/index.m3u8
+----------------------------------------------------------------------------------------------------------
+
+#EXTINF:-1,6 TV - Crespo - ER Entre Rios
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0143
 

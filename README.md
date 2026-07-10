@@ -10,6 +10,25 @@ https://younghollywood-rakuten-samsung.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ZooMooAustralia.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.imgur.com/1wYnA2i.jpg" group-title="Kids",Zoo Moo (Australia) (1080p)
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple19/v4/6a/5e/78/6a5e7862-acd6-80b4-579c-e3fbf845fbf8/source/512x512bb.jpg",PROMAR.TV
+http://vcp1.myplaytv.com/promar/promar/chunklist_w1487678880.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-logo="https://i.imgur.com/YajfXJ1.png" group-title="Documentary",Beach TV - 30A
+http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EsTuTele.es" tvg-logo="https://i.imgur.com/bsAbcmC.png" group-title="General",EsTuTele 
+#EXTVLCOPT:http-referrer=https://player.streamingconnect.com/
+https://cloud.streamingconnect.tv/hls/estutele/estutele.m3u8
+
+#EXTINF:-1 tvg-id="CiudadesdelOcioTV.es" tvg-logo="https://i.imgur.com/CTQgqsM.png" group-title="Entertainment",Ciudades Del Ocio TV 
+https://cloudvideo.servers10.com:8081/8024/index.m3u8
+
+#EXTINF:-1 tvg-id="SafariTV.in" tvg-logo="https://i.imgur.com/dSOfYyh.png" group-title="Undefined",Safari TV 
+https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SchladmingDachsteinTV.at" tvg-logo="https://i.ibb.co/VjnzhMM/Logo-Schl-Dachstein-TV-HP-JPG.jpg" group-title="Travel",Schladming-Dachstein TV 
+https://m317.video-stream-hosting.de/gzSoftware-live/_definst_/smil:livestream.smil/playlist.m3u8
+
 -----------------------------------------------------------------------------------------------------------
 
 #EXTINF:-1 tvg-id="V2BEAT.uk" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/O341rZF.png" group-title="Music",V2BEAT
@@ -18,24 +37,16 @@ https://abr.de1se01.v2beat.live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/2d/Logo_futuro.gif" group-title="MUSICA",Futuro 88.9 (Chile)
 http://unlimited6-cl.dps.live/futurotv/futurotv.smil/playlist.m3u8
 
+#EXTINF:-1,TRIBU TV
+http://streaming.arcast.com.ar:1935/tributv/tributv/chunklist_w340547832.m3u8
+
 -------------------------------------------------------------------------------------------------------------
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/821813567343226881/tWaRDe7v.jpg" group-title="Radios", truckers fm
 https://radio.truckers.fm/
 
-
-
-#EXTINF: -1, Sipse TV Cancún
-https://webprod.sipse.com.mx:8080/show/tvcun.m3u8
-
-#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple19/v4/6a/5e/78/6a5e7862-acd6-80b4-579c-e3fbf845fbf8/source/512x512bb.jpg",PROMAR.TV
-http://vcp1.myplaytv.com/promar/promar/chunklist_w1487678880.m3u8
-
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/576378177/logo_toplatino_radio_200x200_400x400.png",TOP LATINO RADIO PERU
 http://online.radiodifusion.net:8028/stream/1/
-
-#EXTINF:-1 tvg-logo="https://si.cultura.cr/sites/default/files/styles/ficha_full/public/disney.jpg?itok=ihXPbHqj",RADIO DISNEY CR
-http://ic.streann.com:8000/disneycostarica
 
 #EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/radios-com-pa/original-stereo-panama.png",original-stereo-panama
 http://rosetta.shoutca.st:8931/stream/1/
@@ -46,109 +57,12 @@ http://198.178.123.20:7000/stream/1/
 #EXTINF:-1 tvg-logo="http://floradio.co.uk/wp-content/uploads/2017/09/floradio-feeltheflo.jpg",FLOW RADIO.FM
 http://radiohd.streaminghd.co:7014/live
 
-#EXTINF:-1,TRIBU TV
-http://streaming.arcast.com.ar:1935/tributv/tributv/chunklist_w340547832.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---4PO.png" group-title="MI Misiones",Canal 4 - 4 TV - Posadas  TV - MI Misiones
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0167
-
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---4SA.png" group-title="SA Salta",Milenium TV - 17 TV - Salta  TV - SA Salta
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0173
-
-#EXTINF:-1,RTN TV
-http://media.neuquen.gov.ar/rtn/television/chunklist_w2042779766.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-logo="https://i.imgur.com/YajfXJ1.png" group-title="Documentary",Beach TV - 30A
-http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8
-
 #EXTINF:-1,La arrazadora FM
 http://streamingcws20.com:1935/canal6mich/videocanal6mich/chunklist_w848387750.m3u8
 
-#EXTINF:-1,Heraldo tv
-http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
 
-#EXTINF:-1,tv 5 arg
-http://www.coninfo.net:1935/tvcinco/live1/chunklist_w1546509083.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WCKqN4B.png" group-title="ITALY",Eden 86 TV
-http://wma02.fluidstream.net/EdenTV/smil:EdenTV.smil/playlist.m3u8
 
-----------------------------------------------------------------------------
-
-#EXTINF:-1 tvg-id="Canal4ManchaCentro.es" tvg-logo="https://i.imgur.com/m9zXy8M.png" group-title="Undefined",Canal 4 Mancha Centro 
-https://5924d3ad0efcf.streamlock.net/canal4/canal4live/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Canal2000.es" tvg-logo="https://i.imgur.com/FykJUCH.png" group-title="Undefined",Canal 2000 La Solana 
-http://canal2000.berkano-systems.net/streaming/streams/canal2000.m3u8
-
-#EXTINF:-1 tvg-id="IntercomarcalTV.es" tvg-logo="https://i.imgur.com/KLPSnAT.png" group-title="Undefined",Intercomarcal TV 
-https://streamingtvi.gestec-video.com/hls/tvixa.m3u8
-
-#EXTINF:-1 group-title="VARIOS",ALCARRIA TV
-http://217.182.77.27/live/alcarriatv-livestream.m3u8
-
-#EXTINF:-1 tvg-id="M95TelevisionMarbella.es" tvg-logo="https://i.imgur.com/RzAkP1V.png" group-title="Undefined",M95 Televisión Marbella 
-https://limited2.todostreaming.es/live/m95-livestream.m3u8
-
-#EXTINF:-1 tvg-id="EsTuTele.es" tvg-logo="https://i.imgur.com/bsAbcmC.png" group-title="General",EsTuTele 
-#EXTVLCOPT:http-referrer=https://player.streamingconnect.com/
-https://cloud.streamingconnect.tv/hls/estutele/estutele.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HAbq91X.png" group-title="SPAIN",TV Municipal Cordoba 
-http://teledifusion.tv:1935/cordoba/cordobalive/.m3u8?fluxustv.m3u8
-
-#EXTINF:-1 tvg-id="RadioCarnavalTV.es" tvg-logo="https://i.imgur.com/cdpbkSo.png" group-title="Entertainment;Music",Radio Carnaval TV 
-https://eu1.servers10.com:8081/8116/index.m3u8
-
-#EXTINF:-1 tvg-id="TeleElx.es" tvg-logo="https://i.imgur.com/w5NTWpl.png" group-title="General",Tele Elx 
-https://tvdirecto.teleelx.es/stream/teleelx.m3u8
-
-#EXTINF:-1 tvg-id="8LaMarinaTV.es" tvg-logo="https://i.imgur.com/BTJvvBK.png" group-title="General",8 La Marina TV 
-https://streaming005.gestec-video.com/hls/canal24.m3u8
-
-#EXTINF:-1 tvg-id="CanalDonana.es" tvg-logo="https://i.imgur.com/0WrKIxm.png" group-title="Undefined",Canal Doñana 
-https://secure5.todostreaming.es/live/division-alm.m3u8
-
-#EXTINF:-1 tvg-id="CanalSierradeCadiz.es" tvg-logo="https://i.imgur.com/94rn7pb.png" group-title="Undefined",Canal Sierra de Cádiz 
-https://s.emisoras.tv:8081/sierradecadiz/index.m3u8
-
-#EXTINF:-1 tvg-id="EsteponaTelevision.es" tvg-logo="https://i.imgur.com/rMAB720.png" group-title="Undefined",Estepona Televisión 
-https://cloudvideo.servers10.com:8081/8022/index.m3u8
-
-#EXTINF:-1 tvg-id="FuerteventuraTV.es" tvg-logo="https://i.ibb.co/MpvjCzC/Fuerteventura-tv-service-webtv-488969d1-1.png" group-title="General",Fuerteventura TV 
-https://5c0956165db0b.streamlock.net/ftv/directo/.m3u8
-
-#EXTINF:-1 tvg-id="OndaValenciaTV.es" tvg-logo="https://i.imgur.com/6HxLUQd.png" group-title="Music;News",Onda Valencia 
-https://cloudvideo.servers10.com:8081/8116/index.m3u8
-
-#EXTINF:-1 tvg-id="CiudadesdelOcioTV.es" tvg-logo="https://i.imgur.com/CTQgqsM.png" group-title="Entertainment",Ciudades Del Ocio TV 
-https://cloudvideo.servers10.com:8081/8024/index.m3u8
-
-#EXTINF:-1 tvg-id="LogosTVSalud.es" tvg-logo="https://i.imgur.com/qkHrttj.png" group-title="Lifestyle",Logos TV Salud 
-https://streamer1.streamhost.org/salive/logossaludH/playlist.m3u8
-  
-#EXTINF:-1 tvg-logo="https://i.imgur.com/o8EtLad.png" group-title="VARIOS",RiberaTV
-http://common01.todostreaming.es/live/ribera-livestream.m3u8
-
-#EXTINF:-1 group-title="VARIOS",Canal Malaga
-http://canalmalaga-tv-live.flumotion.com/chunks.m3u8?fluxustv.m3u8
-
--------------------------------------------------------------------------------------------
-
-#EXTINF:-1 tvg-id="TelecolorYurimaguas.pe" tvg-logo="https://i.imgur.com/Ug6XNIU.png" group-title="General",Telecolor (Yurimaguas) 
-https://live.obslivestream.com/telecolormux/index.m3u8
-
-#EXTINF:-1 tvg-id="Mijas340TV.es" tvg-logo="https://i.imgur.com/RH1zLLs.png" group-title="Undefined",Mijas 3.40TV 
-https://streaming004.gestec-video.com/hls/MIJAS.m3u8
-
-#EXTINF:-1 tvg-id="SafariTV.in" tvg-logo="https://i.imgur.com/dSOfYyh.png" group-title="Undefined",Safari TV 
-https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="SchladmingDachsteinTV.at" tvg-logo="https://i.ibb.co/VjnzhMM/Logo-Schl-Dachstein-TV-HP-JPG.jpg" group-title="Travel",Schladming-Dachstein TV 
-https://m317.video-stream-hosting.de/gzSoftware-live/_definst_/smil:livestream.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="XHZHZTDT.mx" tvg-logo="https://i.imgur.com/RxhABeK.png" group-title="General",SIZART Canal 24 
-https://5ca9af4645e15.streamlock.net/zacatecas/videozacatecas/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Sochi Live HD 
 http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8

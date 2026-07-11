@@ -1,4 +1,4 @@
-#EXTINF:-1 tvg-id="VTVValledeAconcagua.cl" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://i.imgur.com/k8qMo2O.jpg" group-title="Undefined",VTV Valle de Aconcagua 
+#EXTINF:-1 tvg-id="VTVValledeAconcagua.cl" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://i.imgur.com/k8qMo2O.jpg" group-title="Undefined",VTV Valle de Aconcagua      
 https://unlimited1-us.dps.live/vtv/vtv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="YoungHollywood.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/X27MGHd.png" group-title="Entertainment",Young Hollywood (720p)

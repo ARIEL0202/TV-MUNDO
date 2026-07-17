@@ -220,6 +220,21 @@ http://connectiktv.ddns.net:5000/playtv/@playtv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",VAM Vid's & More
 https://cur.watch/api/get_stream/vam/streann/playlist.m3u8
 
+#EXTINF:-1 tvg-id="VolksmusikTV.de" tvg-logo="https://i.imgur.com/dziFtVB.png" group-title="Music",Volksmusik TV 
+https://vmtv.iptv-playoutcenter.de/vmtv/vmtv1/playlist.m3u8
+
+#EXTINF:-1,Kayhan TV www.achoAPPS.com
+https://playout395.livestreamingcdn.com/live/Stream1/chunklist.m3u8
+
+#EXTINF:-1,RTV Noordoost Friesland www.achoAPPS.com
+http://cdn15.streampartner.nl:1935/rtvnof2/live/playlist.m3u8?fluxustv.m3u8
+
+#EXTINF:-1,Shanson TV (Opt-2) www.achoAPPS.com
+http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="" group-title="",TV Dielli
+http://stream.tvdielli.com:8081/dielli/index.m3u8
+
 -------------------------------------------------------------------------------------------------------------
 MUNDO
 #EXTINF:-1 tvg-id="ZooMooAustralia.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.imgur.com/1wYnA2i.jpg" group-title="Kids",Zoo Moo (Australia) (1080p)
@@ -391,94 +406,17 @@ https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
 
------------------------------------------------------------------------------------------------------------
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="VideoTourChannel.cr" tvg-logo="https://i.imgur.com/l1oc3ER.png" group-title="Music",Video Tour Channel 
-http://k4.usastreams.com/videotour/videotour/playlist.m3u8
-
-#EXTINF:-1 tvg-id="VisionTV.gt" tvg-logo="https://i.imgur.com/OHFYPTW.png" group-title="Undefined",Visión TV 
-https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
-
-#EXTINF:-1 tvg-id="VisualRadio.it" tvg-logo="https://i.imgur.com/ah14ah0.png" group-title="Undefined",Visual Radio 
-http://wms.shared.streamshow.it:1935/visualradio/visualradio/live.m3u8
-
-#EXTINF:-1 tvg-id="VMLatino.cr" tvg-logo="https://www.m3u.cl/logo/1062_Canal_VM_Latino.png" group-title="Music",VM Latino 
-https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
-
-#EXTINF:-1 tvg-id="VoiceOverRadioTV.cr" tvg-logo="https://i.imgur.com/xaDRU2a.png" group-title="Music",VoiceOver Radio TV
-https://cloudvideo.servers10.com:8081/8198/index.m3u8
-
-#EXTINF:-1 tvg-id="VolksmusikTV.de" tvg-logo="https://i.imgur.com/dziFtVB.png" group-title="Music",Volksmusik TV 
-https://vmtv.iptv-playoutcenter.de/vmtv/vmtv1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Waterbear
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01415-waterbearnetwor-waterbear-samsungnl/playlist.m3u8
-
 #EXTINF:-1 tvg-id="WPSTV.us" tvg-logo="https://i.imgur.com/zwzmwse.jpg" group-title="Education",WPS TV 
 https://2-fss-2.streamhoster.com/pl_120/amlst:203530-1426406/playlist.m3u8
-
-#EXTINF:-1 tvg-id="WTVCanal20.ni" tvg-logo="https://i.imgur.com/jMw3fS3.png" group-title="Entertainment",WTV Canal 20 
-https://cloudvideo.servers10.com:8081/8130/index.m3u8
-
-#EXTINF:-1 tvg-id="YoungHollywood.us" tvg-logo="https://i.imgur.com/X27MGHd.png" group-title="Entertainment",Young Hollywood 
-https://younghollywood-rakuten-samsung.amagi.tv/playlist.m3u8
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-#EXTINF:-1,Kayhan TV www.achoAPPS.com
-https://playout395.livestreamingcdn.com/live/Stream1/chunklist.m3u8
-
-#EXTINF:-1,~ 24/7 Channels ~ www.achoAPPS.com
-http://stream.srg-ssr.ch/m/rsc_de/mp3_128
-
-#EXTINF:-1,Classic Movies www.achoAPPS.com
-https://stitcher.pluto.tv/stitch/hls/channel/569546031a619b8f07ce6e25/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6e360db0-724b-11e8-be77-bf4d1417b012&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
-
-#EXTINF:-1,Flicks of Fury www.achoAPPS.com
-https://stitcher.pluto.tv/stitch/hls/channel/58e55b14ad8e9c364d55f717/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=2da9e920-7245-11e8-9b3e-a1006a2fd228&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
-
-#EXTINF:-1,Forensic Files www.achoAPPS.com
-http://stitcher.pluto.tv/stitch/hls/channel/5bb1af6a268cae539bcedb0a/master.m3u8?sid=web24157571521&deviceType=web&deviceMake=web&deviceVersion=1&deviceId=web24163643069&appVersion=5.2.7&deviceDNT=web&deviceModel=web
-
-#EXTINF:-1,Live Music Replay www.achoAPPS.com
-http://stitcher.pluto.tv/stitch/hls/channel/5873fc21cad696fb37aa9054/master.m3u8?sid=web24157571521&deviceType=web&deviceMake=web&deviceVersion=1&deviceId=web24163643069&appVersion=5.2.7&deviceDNT=web&deviceModel=web
-
-#EXTINF:-1,RTV Noordoost Friesland www.achoAPPS.com
-http://cdn15.streampartner.nl:1935/rtvnof2/live/playlist.m3u8?fluxustv.m3u8
 
 #EXTINF:-1,E-Parana www.achoAPPS.com
 http://200.189.113.201/hls/tve.m3u8
 
-#EXTINF:-1,Canal Malaga www.achoAPPS.com
-http://canalmalaga-tv-live.flumotion.com/chunks.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="TVPlan.br" tvg-logo="https://i.imgur.com/U1cYYuy.png" group-title="General",TV Plan
+https://live.cdn.upx.com/723b/myStream.sdp/playlist.m3u8
 
-#EXTINF:-1,TV Municipal Cordoba www.achoAPPS.com
-http://teledifusion.tv:1935/cordoba/cordobalive/.m3u8?fluxustv.m3u8
 
-#EXTINF:-1,Telemax Hermosillo www.achoAPPS.com
-http://s5.mexside.net:1935/telemax/telemax/.m3u8
 
-#EXTINF:-1,Cali TV www.achoAPPS.com
-http://vbox.cehis.net/live-calitv/calitv1/playlist.m3u8
-
-#EXTINF:-1,Multimedios CR www.achoAPPS.com
-https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?fluxustv.m3u8
-
-#EXTINF:-1,TeleUno TV www.achoAPPS.com
-http://tv.teleunotv.cr:1935/TVUNO/TVUNO/playlist.m3u8
-
-#EXTINF:-1,Shanson TV (Opt-2) www.achoAPPS.com
-http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8
-
-#EXTINF:-1,Radio Van 103.0 FM Yerevan www.achoAPPS.com
-http://stream.radiovan.fm/stream/index.m3u8
 ----------------------------------------------------------------------------------------------------------
 
 #EXTINF:-1,6 TV - Crespo - ER Entre Rios
@@ -486,9 +424,6 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0143
 
 #EXTINF:-1 tvg-id="SuMundoTV.do" tvg-logo="https://i.imgur.com/twGGfJr.png" group-title="Undefined",Su Mundo TV
 https://175036.global.ssl.fastly.net/6217e980d5bee0e090792fdf/live_75f5635097ba11ecb9f1255c8fe65a34/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",TNO Radio 
-https://stmv1.srvstm.com/tnovideo1/tnovideo1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVAlternativa.br" tvg-logo="https://i.imgur.com/wM9xXhc.png" group-title="General",TV Alternativa
 https://stmv5.samcast.com.br/wagner7919/wagner7919/playlist.m3u8
@@ -502,13 +437,7 @@ https://5790d294af2dc.streamlock.net/8134/8134/playlist.m3u8
 #EXTINF:-1 tvg-id="TVPenol.co" tvg-logo="https://lh3.googleusercontent.com/-IjTc4ETC9nM/YJrm_HJajaI/AAAAAAABCPA/SwuODmd0rtIduTCeQniwOaSBvR_YqDykgCK8BGAsYHg/s512/2021-05-11.png" group-title="Undefined",TV Peñol
 https://stmv1.voxtvhd.com.br/tvpenol/tvpenol/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TVPlan.br" tvg-logo="https://i.imgur.com/U1cYYuy.png" group-title="General",TV Plan
-https://live.cdn.upx.com/723b/myStream.sdp/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Uniteve.ar" tvg-logo="https://pbs.twimg.com/profile_images/720276300888453120/a_SDOmBc_400x400.jpg" group-title="Undefined",Uniteve
-https://vivo.solumedia.com:19360/uniteve/uniteve.m3u8
-
-#EXTINF:-1 tvg-id="YourTimeTV.ir" tvg-logo="https://i.imgur.com/X38vWJ1.png" group-title="Entertainment",YourTime TV (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="YourTimeTV.ir" tvg-logo="https://i.imgur.com/X38vWJ1.png" group-title="Entertainment",YourTime TV 
 https://hls.yourtime.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",TV UNO 
@@ -523,32 +452,14 @@ https://ma.anixa.tv/clips/stream/anixehd/index.m3u8
 #EXTINF:-1 tvg-id="OMLonRevry.us" tvg-country="US" tvg-language="English" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5fc810e0f000c90dd9563252" group-title="VARIOS",OML on Revry 
 https://linear-73.frequency.stream/dist/localnow/73/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="87" tvg-name="ITV Patagonia" tvg-logo="https://lh3.googleusercontent.com/-ZBNktblWn9U/YHTLWC_p1aI/AAAAAAABBXY/v90ntMGcb7kuYUK0yqNBGSTtu1JiQUHfQCK8BGAsYHg/s512/2021-04-12.png" group-title="VARIOS", ITV Patagonia
-https://unlimited1-cl-isp.dps.live/itv/itv.smil/playlist.m3u8?PlaylistM3UCL   
-
-#EXTINF:-1 tvg-id="Telemotril.es" tvg-logo="https://i.imgur.com/4nspLHb.png" group-title="VARIOS",Telemotril 
-https://5940924978228.streamlock.net/8431/8431/playlist.m3u8
-
 #EXTINF:-1 tvg-id="PopstarTV.us" tvg-logo="https://i.imgur.com/mWrqBaS.png" group-title="Entertainment",Popstar! TV 
 https://linear-10.frequency.stream/dist/plex/10/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-id="QTVGambia.gm" tvg-logo="https://i.imgur.com/K5tzOq2.png" group-title="Undefined",QTV Gambia
-https://player.qtv.gm/hls/live.stream.m3u8
 
 #EXTINF:-1 tvg-id="SmileTV.gr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Smile_Tv_Greece_Logo.png/512px-Smile_Tv_Greece_Logo.png" group-title="Undefined",Smile TV 
 https://s1.cystream.net/live/smile/playlist.m3u8
 
-#EXTINF:-1 tvg-id="SoloBailalo.cl" tvg-logo="https://i.imgur.com/sUdKC3Z.png" group-title="Music",SoloBáilalo
-https://5ff3d9babae13.streamlock.net/8000/8000/playlist.m3u8
-
-#EXTINF:-1 tvg-id="SportsTV.tr" tvg-logo="https://i.imgur.com/tGTVcVe.jpg" group-title="Sports",Sports TV 
-https://live.sportstv.com.tr/hls/low/sportstv.m3u8
-
 #EXTINF:-1 tvg-id="TNTV.pf" tvg-logo="https://i.imgur.com/NzDscwm.png" group-title="General",TNTV 
 https://tntv-samsung-fr.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Canal3LasHeras.ar" tvg-logo="https://lh3.googleusercontent.com/-Bo1d38m3t7E/X1TI1TCW_HI/AAAAAAAA5TQ/m4ZStqzslPcCdG1y7R1XQ4arveLLpxHjgCK8BGAsYHg/s0/2020-09-06.jpg" group-title="Undefined",Canal 3 Las Heras 
-https://stream.arcast.com.ar/canal3/canal3/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ChadaTV.ma" tvg-logo="https://www.lyngsat.com/logo/tv/cc/chada-tv-ma.png" group-title="Undefined",Chada TV 
 https://chadatv.vedge.infomaniak.com/livecast/chadatv/playlist.m3u8
@@ -562,14 +473,8 @@ http://og2qd3aal7an-hls-live.5centscdn.com/garshomtv/d0dbe915091d400bd8ee7f27f07
 #EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="" group-title="Undefined",TV S1
 https://sradio.ipradio.rs/sradio/radiostv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="" group-title="",TV Dielli
-http://stream.tvdielli.com:8081/dielli/index.m3u8
-
 #EXTINF:-1 tvg-id="CanalSiTV.hn" tvg-country="HN" tvg-language="Spanish" tvg-logo="" group-title="Spanish",Canal SiTV 
 https://5e85d90130e77.streamlock.net/6024/6024/playlist.m3u8
-
-#EXTINF:-1 tvg-id="CNCDigital.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/cnc.digital.pe/picture?width=320&height=320" group-title="Spanish",CNC Digital (Iquitos) 
-https://cloudvideo.servers10.com:8081/8150/index.m3u8
 
 #EXTINF:-1 tvg-id="LRPTelevision.cl" tvg-country="CL" tvg-language="Spanish" tvg-logo="" group-title="Spanish",LRP Televisión 
 https://v2.tustreaming.cl/lrp/index.m3u8
@@ -588,3 +493,12 @@ https://stream.arcast.com.ar/somosnoticias/somosnoticias/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SuMundoTV.do" tvg-logo="https://i.imgur.com/twGGfJr.png" group-title="Undefined",Su Mundo TV
 https://175036.global.ssl.fastly.net/6217e980d5bee0e090792fdf/live_75f5635097ba11ecb9f1255c8fe65a34/index.m3u8
+
+#EXTINF:-1 tvg-id="VisionTV.gt" tvg-logo="https://i.imgur.com/OHFYPTW.png" group-title="Undefined",Visión TV 
+https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
+
+#EXTINF:-1,TV Municipal Cordoba www.achoAPPS.com
+http://teledifusion.tv:1935/cordoba/cordobalive/.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 group-title="Undefined",Radio Van 103.0 FM Yerevan 
+http://stream.radiovan.fm/stream/index.m3u8

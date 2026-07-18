@@ -92,10 +92,22 @@ https://radioaalsmeer.nl:4443/live/tv.m3u8
 #EXTINF:-1 tvg-id="RadioTele4VEH.ht" tvg-logo="https://i.imgur.com/AnOjqaS.png" group-title="Religious",Radio Télé 4VEH 
 https://uni01rtmp.tulix.tv/4vehtv/4vehtv-firetv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-country="AR" tvg-language="" tvg-logo="" group-title="Argentina",Power TV 
+https://wowza.telpin.com.ar:1935/live-powerTV/power.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Radio538.nl" tvg-logo="https://i.imgur.com/sd7BX9H.png" group-title="MUNDO",Radio 538 
+https://radio538.prd1.talpatvcdn.nl/22e9bbf9616547d7bc162c993009c533/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MUNDO",Radio A1 
+https://www.a1mediagroep.nl/hls/a1tv.m3u8
+
 -----------------------------------------------------------------------------------------------------------
 MUSIC
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/2d/Logo_futuro.gif" group-title="MUSICA",Futuro 88.9 (Chile)
 http://unlimited6-cl.dps.live/futurotv/futurotv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="1Mus.hu" tvg-country="HU" tvg-language="" tvg-logo="https://i.imgur.com/PozF9MT.png" group-title="MUSIC",1Mus
+http://hz1.teleport.cc/HLS/HD.m3u8
 
 #EXTINF:-1,TRIBU TV
 http://streaming.arcast.com.ar:1935/tributv/tributv/chunklist_w340547832.m3u8
@@ -126,6 +138,9 @@ http://159.203.148.226/live/farra.m3u8
 
 #EXTINF:-1 tvg-id="DanceFM.cl" tvg-logo="https://i2.paste.pics/ff3e1e1045a1968dcdbcda3824a94eb3.png" group-title="Music",Dance FM 
 https://5eaccbab48461.streamlock.net:1936/dancefm_1/dancefm_1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TezaurTV.md" tvg-logo="https://i.imgur.com/eAagwLW.png" group-title="MUSIC",Tezaur TV 
+http://tezaur.mlbfan.org/tezaur/index.m3u8
 
 #EXTINF:-1 tvg-id="FolkKlubTV.au" tvg-logo="https://i.imgur.com/Seq7Od7.png" group-title="Music",Folk Klub 
 http://tv1.intv.mk:1935/live2/folkklub/index.m3u8
@@ -235,6 +250,9 @@ http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="" group-title="",TV Dielli
 http://stream.tvdielli.com:8081/dielli/index.m3u8
 
+#EXTINF:-1 tvg-id="PowerTV.tr" tvg-logo="https://i.imgur.com/XSL1gd7.png" group-title="MUNDO",Power TV 
+https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8
+
 -------------------------------------------------------------------------------------------------------------
 MUNDO
 #EXTINF:-1 tvg-id="ZooMooAustralia.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.imgur.com/1wYnA2i.jpg" group-title="Kids",Zoo Moo (Australia) (1080p)
@@ -257,6 +275,15 @@ http://media4.tripsmarter.com:1935/LiveTV/KTVHD/chunklist_w363623166.m3u8
 
 #EXTINF:-1 tvg-id="Wonder.uk" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/450pJvs.png" group-title="VARIOS",Wonder 
 https://wonder-samsung-uk.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MoonbugKids.uk" tvg-logo="https://i.imgur.com/vZHtxQb.png" group-title="MUNDO",Moonbug Kids 
+https://moonbug-rokuus.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MUNDO",La Rock 22
+http://138.117.4.70:8075/channel22/playlist.m3u8
+
+#EXTINF:-1 tvg-id="815" tvg-name="Celta TV" tvg-logo="https://lh3.googleusercontent.com/-C1wSnCmFUjc/YH41q4bAlNI/AAAAAAABBwo/CiJRyrGdDa0OVJOhHfrsuXCRCwe6T3VgACK8BGAsYHg/s512/2021-04-19.jpg" group-title="MUNDO", Celta TV 
+https://vivo.solumedia.com:19360/celta/celta.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="MysteryScienceTheater3000.us" tvg-country="US" tvg-language="English" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5f9ace054964ba19ff258256" group-title="VARIOS",Mystery Science Theater 3000 
 https://mst3k-localnow.amagi.tv/playlist.m3u8
@@ -502,3 +529,6 @@ http://teledifusion.tv:1935/cordoba/cordobalive/.m3u8?fluxustv.m3u8
 
 #EXTINF:-1 group-title="Undefined",Radio Van 103.0 FM Yerevan 
 http://stream.radiovan.fm/stream/index.m3u8
+
+#EXTINF:-1 tvg-id="AysenTV.cl" tvg-logo="https://i.imgur.com/DmdBf9S.png" group-title="VARIOS",Aysen TV
+http://v1.tustreaming.cl/aysentv/index.m3u8
